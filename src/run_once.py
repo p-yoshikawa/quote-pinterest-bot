@@ -13,11 +13,11 @@ OUTDIR = ROOT / "output" / "images"
 LOG = ROOT / "logs" / "posts.csv"
 
 W, H = 1000, 1500
-MAX_PER_RUN = 3  # ★ 追加：1回の実行で生成する枚数
+MAX_PER_RUN = 3  # ★ Phase C用：1回の実行で生成する枚数
 
 
 # ------------------------
-# Gradient Background
+# Background (Gradient)
 # ------------------------
 def random_color():
     return (
@@ -64,6 +64,14 @@ def pick_unused(stock):
     return None
 
 
+def mark_used(stock, quote_id):
+    for item in stock:
+        if item.get("id") == quote_id:
+            item["used"] = True
+            return True
+    return False
+
+
 def wrap_text(draw, text, font, max_width):
     words = text.split()
     lines = []
@@ -84,25 +92,15 @@ def wrap_text(draw, text, font, max_width):
     return lines
 
 
-def mark_used(stock, quote_id):
-    for item in stock:
-        if item.get("id") == quote_id:
-            item["used"] = True
-            return True
-    return False
-
-
 # ------------------------
-# Render one image
+# Render
 # ------------------------
 def render_one(q, seq_no: int):
     bg = create_gradient()
     draw = ImageDraw.Draw(bg)
 
-    # フォントサイズ自動調整
     font_size = 80
     font = ImageFont.load_default()
-
     max_width = int(W * 0.85)
 
     while font_size > 20:
@@ -112,11 +110,7 @@ def render_one(q, seq_no: int):
             font = ImageFont.load_default()
 
         lines = wrap_text(draw, q["quote"], font, max_width)
-
-        total_height = (
-            sum(font.getbbox(line)[3] for line in lines)
-            + (len(lines) - 1) * 20
-        )
+        total_height = sum(font.getbbox(line)[3] for line in lines) + (len(lines) - 1) * 20
 
         if total_height < H * 0.6:
             break
@@ -125,22 +119,20 @@ def render_one(q, seq_no: int):
 
     y = (H - total_height) // 2
 
-    # 影付き文字
     for line in lines:
         bbox = font.getbbox(line)
         line_width = bbox[2]
         line_height = bbox[3]
-
         x = (W - line_width) // 2
 
         draw.text((x + 2, y + 2), line, font=font, fill=(0, 0, 0))
         draw.text((x, y), line, font=font, fill=(255, 255, 255))
-
         y += line_height + 20
 
-    # ★ 衝突回避：同秒生成でも被らないように連番を入れる
+    # ★ 衝突回避：同秒で3枚作っても上書きされないように連番を追加
     ts = datetime.now(JST).strftime("%Y%m%d_%H%M%S")
-    out_path = OUTDIR / f"{ts}_{q['id']}_n{seq_no:02d}.png"
+    qid = f"q{int(q['id']):04d}"
+    out_path = OUTDIR / f"{ts}_{qid}_n{seq_no:02d}.png"
     bg.save(out_path)
 
     return out_path
@@ -154,8 +146,8 @@ def main():
     LOG.parent.mkdir(parents=True, exist_ok=True)
 
     stock = load_stock()
-
     generated = 0
+
     for seq_no in range(1, MAX_PER_RUN + 1):
         q = pick_unused(stock)
         if not q:
@@ -164,17 +156,14 @@ def main():
 
         out_path = render_one(q, seq_no=seq_no)
 
-        # used=true
+        # ✅ 事故防止（おすすめを加えておいた）
+        # 1枚ごとに used=true 更新 & stock保存（途中で落ちても重複生成しにくい）
         mark_used(stock, q["id"])
-
-        # save after each to be safe (途中で落ちても消費がズレにくい)
         save_stock(stock)
 
-        # log
+        topic = q.get("topic", "")
         with open(LOG, "a", encoding="utf-8") as f:
-            f.write(
-                f"{datetime.now(JST).isoformat()},{q['id']},{q.get('topic','')},{out_path.as_posix()},ok,generated_gradient\n"
-            )
+            f.write(f"{datetime.now(JST).isoformat()},{q['id']},{topic},{out_path.as_posix()},ok,generated_gradient\n")
 
         print(f"Generated: {out_path}")
         generated += 1
