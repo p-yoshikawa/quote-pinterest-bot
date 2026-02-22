@@ -170,7 +170,13 @@ def main():
     ensure_dirs()
 
     data = load_stock()
+    total = len(data)
+    unused_count = sum(1 for x in data if not x.get("used", False))
+    print(f"[DEBUG] stock total={total}, unused(used=false)={unused_count}")
+
     picked = pick_unused_with_index(data, n=MAX_PER_RUN)
+    print(f"[DEBUG] picked count={len(picked)} (MAX_PER_RUN={MAX_PER_RUN})")
+    print("[DEBUG] picked indices:", [idx for idx, _ in picked])
 
     if not picked:
         print("No unused quotes found. (used=false is empty)")
@@ -178,21 +184,32 @@ def main():
 
     used_indices = []
     for run_no, (idx, item) in enumerate(picked, start=1):
-        quote_text = (item.get("quote") or item.get("text") or "").strip()
-        if not quote_text:
-            print(f"Skip empty quote at index={idx}")
+        try:
+            quote_text = (item.get("quote") or item.get("text") or "").strip()
+            print(f"[DEBUG] run_no={run_no}, idx={idx}, quote_len={len(quote_text)}")
+
+            if not quote_text:
+                print(f"[WARN] Skip empty quote at idx={idx}. keys={list(item.keys())}")
+                continue
+
+            out_path = generate_one(quote_text, idx, run_no)
+            print(f"Generated: {out_path}")
+            used_indices.append(idx)
+
+        except Exception as e:
+            # ★ ここが超重要：2枚目で落ちて止まるのを見える化
+            print(f"[ERROR] Failed at run_no={run_no}, idx={idx}: {type(e).__name__}: {e}")
+            # 止めずに次へ（原因切り分け優先）
             continue
 
-        out_path = generate_one(quote_text, idx, run_no)
-        print(f"Generated: {out_path}")
-        used_indices.append(idx)
+    print(f"[DEBUG] generated_count={len(used_indices)}")
 
     if used_indices:
         mark_used_by_index(data, used_indices)
         save_stock(data)
         print(f"Marked used=true for indices: {used_indices}")
 
-    print(f"Done. Generated {len(used_indices)} image(s).")
+    print("Done.")
 
 
 if __name__ == "__main__":
