@@ -11,7 +11,6 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,20 +29,34 @@ jobs:
         run: |
           python scripts/generate_image.py
 
+      # ★ これを入れるだけで「本当に0枚か」が即わかる
+      - name: Debug after generate
+        run: |
+          echo "=== ls templates ==="
+          ls -la templates || true
+          echo "=== ls output/images ==="
+          ls -la output/images || true
+          echo "=== git status ==="
+          git status --porcelain || true
+
       - name: Commit changes
         run: |
           git config user.name "quote-bot"
           git config user.email "quote-bot@users.noreply.github.com"
 
-          # まず確実に存在するものだけ add
-          git add quotes/stock.json output/images || true
+          # 確実に存在するものを add
+          git add quotes/stock.json || true
 
-          # もし logs/posts.csv が存在するなら add（無ければ無視）
+          # output/images が gitignore されてる可能性があるので強制addも併用
+          git add output/images || true
+          git add -f output/images || true
+
+          # logs/posts.csv は存在するときだけ
           if [ -f logs/posts.csv ]; then
             git add logs/posts.csv
           fi
 
-          # 変更がなければコミットしない
+          # 変更が無ければコミットしない
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
