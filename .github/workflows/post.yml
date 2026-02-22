@@ -33,24 +33,15 @@ jobs:
         run: |
           git config user.name "quote-bot"
           git config user.email "quote-bot@users.noreply.github.com"
-
-          # 確実に存在するものを add
-          git add quotes/stock.json || true
-
-          # output/images が gitignore されてる可能性があるので強制addも併用
-          git add output/images || true
-          git add -f output/images || true
-
-          # logs/posts.csv は存在するときだけ
-          if [ -f logs/posts.csv ]; then
-            git add logs/posts.csv
-          fi
-
-          # 変更が無ければコミットしない
+      
+          git add quotes/stock.json
+          git add logs/posts.csv
+          git add output/images
+      
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-
-          git commit -m "bot: generate images"
+      
+          git commit -m "bot: auto generate 3 images"
           git push
