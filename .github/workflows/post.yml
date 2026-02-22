@@ -1,0 +1,39 @@
+name: Quote Bot (dry run)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"  # 毎日12:00 JST（UTC 03:00）
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run bot once
+        run: |
+          python src/run_once.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "quote-bot"
+          git config user.email "quote-bot@users.noreply.github.com"
+          git add quotes/stock.json logs/posts.csv output/images || true
+          git commit -m "bot: generate one image" || echo "No changes"
+          git push
