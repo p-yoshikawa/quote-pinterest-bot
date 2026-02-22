@@ -1,1 +1,12 @@
-
+[
+  {"id":"q0001","topic":"motivation","quote":"Discipline is choosing your future over your comfort.","short_title":"Choose your future","keywords":["discipline","focus","habits"],"used":false},
+  {"id":"q0002","topic":"self_love","quote":"Talk to yourself like someone you’re learning to protect.","short_title":"Protect your mind","keywords":["self-love","boundaries","mindset"],"used":false},
+  {"id":"q0003","topic":"productivity","quote":"Small progress every day beats rare bursts of effort.","short_title":"Small progress","keywords":["productivity","consistency","routine"],"used":false},
+  {"id":"q0004","topic":"mindset","quote":"You don’t need more time—you need fewer distractions.","short_title":"Fewer distractions","keywords":["mindset","focus","minimalism"],"used":false},
+  {"id":"q0005","topic":"habits","quote":"Make the right thing easy, and the wrong thing hard.","short_title":"Design your habits","keywords":["habits","systems","discipline"],"used":false},
+  {"id":"q0006","topic":"stoic","quote":"Control your actions, release the outcome, repeat.","short_title":"Repeat the work","keywords":["stoic","control","resilience"],"used":false},
+  {"id":"q0007","topic":"motivation","quote":"Confidence grows when you keep promises to yourself.","short_title":"Keep promises","keywords":["confidence","discipline","growth"],"used":false},
+  {"id":"q0008","topic":"productivity","quote":"One clear priority turns chaos into progress.","short_title":"One priority","keywords":["priority","focus","clarity"],"used":false},
+  {"id":"q0009","topic":"self_love","quote":"Rest is part of the plan, not a reward for suffering.","short_title":"Rest is plan","keywords":["rest","balance","self-care"],"used":false},
+  {"id":"q0010","topic":"mindset","quote":"Your standards shape your life more than your goals.","short_title":"Raise standards","keywords":["standards","mindset","growth"],"used":false}
+]
