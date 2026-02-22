@@ -169,7 +169,12 @@ def main():
         generated += 1
 
     print(f"Done. generated={generated}")
-
+    # ★ おすすめ追加：在庫残数ログ
+    remaining = sum(1 for x in stock if not x.get("used"))
+    print(f"[INFO] remaining_unused={remaining}")
+    
+    if remaining <= 10:
+    print("[WARN] Stock is running low!")
 
 if __name__ == "__main__":
     main()
