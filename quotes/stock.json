@@ -4,7 +4,11 @@
     "topic": "motivation",
     "quote": "Discipline is choosing your future over your comfort.",
     "short_title": "Choose your future",
-    "keywords": ["discipline", "focus", "habits"],
+    "keywords": [
+      "discipline",
+      "focus",
+      "habits"
+    ],
     "used": true
   },
   {
@@ -12,7 +16,11 @@
     "topic": "self_love",
     "quote": "Talk to yourself like someone you’re learning to protect.",
     "short_title": "Protect your mind",
-    "keywords": ["self-love", "boundaries", "mindset"],
+    "keywords": [
+      "self-love",
+      "boundaries",
+      "mindset"
+    ],
     "used": true
   },
   {
@@ -20,15 +28,23 @@
     "topic": "productivity",
     "quote": "Small progress every day beats rare bursts of effort.",
     "short_title": "Small progress",
-    "keywords": ["productivity", "consistency", "routine"],
-    "used": false
+    "keywords": [
+      "productivity",
+      "consistency",
+      "routine"
+    ],
+    "used": true
   },
   {
     "id": "q0004",
     "topic": "mindset",
     "quote": "You don’t need more time—you need fewer distractions.",
     "short_title": "Fewer distractions",
-    "keywords": ["mindset", "focus", "minimalism"],
+    "keywords": [
+      "mindset",
+      "focus",
+      "minimalism"
+    ],
     "used": false
   },
   {
@@ -36,7 +52,11 @@
     "topic": "habits",
     "quote": "Make the right thing easy, and the wrong thing hard.",
     "short_title": "Design your habits",
-    "keywords": ["habits", "systems", "discipline"],
+    "keywords": [
+      "habits",
+      "systems",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -44,7 +64,11 @@
     "topic": "stoic",
     "quote": "Control your actions, release the outcome, repeat.",
     "short_title": "Repeat the work",
-    "keywords": ["stoic", "control", "resilience"],
+    "keywords": [
+      "stoic",
+      "control",
+      "resilience"
+    ],
     "used": false
   },
   {
@@ -52,7 +76,11 @@
     "topic": "motivation",
     "quote": "Confidence grows when you keep promises to yourself.",
     "short_title": "Keep promises",
-    "keywords": ["confidence", "discipline", "growth"],
+    "keywords": [
+      "confidence",
+      "discipline",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -60,7 +88,11 @@
     "topic": "productivity",
     "quote": "One clear priority turns chaos into progress.",
     "short_title": "One priority",
-    "keywords": ["priority", "focus", "clarity"],
+    "keywords": [
+      "priority",
+      "focus",
+      "clarity"
+    ],
     "used": false
   },
   {
@@ -68,7 +100,11 @@
     "topic": "self_love",
     "quote": "Rest is part of the plan, not a reward for suffering.",
     "short_title": "Rest is plan",
-    "keywords": ["rest", "balance", "self-care"],
+    "keywords": [
+      "rest",
+      "balance",
+      "self-care"
+    ],
     "used": false
   },
   {
@@ -76,7 +112,11 @@
     "topic": "mindset",
     "quote": "Your standards shape your life more than your goals.",
     "short_title": "Raise standards",
-    "keywords": ["standards", "mindset", "growth"],
+    "keywords": [
+      "standards",
+      "mindset",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -84,7 +124,11 @@
     "topic": "motivation",
     "quote": "Start before you feel ready.",
     "short_title": "Start now",
-    "keywords": ["motivation", "action", "growth"],
+    "keywords": [
+      "motivation",
+      "action",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -92,7 +136,11 @@
     "topic": "discipline",
     "quote": "Consistency beats intensity every time.",
     "short_title": "Stay consistent",
-    "keywords": ["discipline", "habits", "focus"],
+    "keywords": [
+      "discipline",
+      "habits",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -100,7 +148,11 @@
     "topic": "self_love",
     "quote": "You deserve the effort you give to others.",
     "short_title": "Give it to yourself",
-    "keywords": ["selflove", "confidence", "mindset"],
+    "keywords": [
+      "selflove",
+      "confidence",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -108,7 +160,11 @@
     "topic": "productivity",
     "quote": "One focused hour can change your day.",
     "short_title": "Focus wins",
-    "keywords": ["productivity", "focus", "clarity"],
+    "keywords": [
+      "productivity",
+      "focus",
+      "clarity"
+    ],
     "used": false
   },
   {
@@ -116,7 +172,11 @@
     "topic": "motivation",
     "quote": "Progress is quiet but powerful.",
     "short_title": "Quiet progress",
-    "keywords": ["growth", "motivation", "discipline"],
+    "keywords": [
+      "growth",
+      "motivation",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -124,7 +184,11 @@
     "topic": "minimalism",
     "quote": "Less noise. More purpose.",
     "short_title": "More purpose",
-    "keywords": ["minimalism", "clarity", "mindset"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -132,7 +196,11 @@
     "topic": "discipline",
     "quote": "Do it tired. Do it anyway.",
     "short_title": "Do it anyway",
-    "keywords": ["discipline", "resilience", "focus"],
+    "keywords": [
+      "discipline",
+      "resilience",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -140,7 +208,11 @@
     "topic": "self_love",
     "quote": "Rest is strength, not weakness.",
     "short_title": "Rest is strength",
-    "keywords": ["selfcare", "balance", "growth"],
+    "keywords": [
+      "selfcare",
+      "balance",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -148,7 +220,11 @@
     "topic": "productivity",
     "quote": "Small steps compound fast.",
     "short_title": "Compound steps",
-    "keywords": ["productivity", "habits", "success"],
+    "keywords": [
+      "productivity",
+      "habits",
+      "success"
+    ],
     "used": false
   },
   {
@@ -156,7 +232,11 @@
     "topic": "motivation",
     "quote": "You are closer than you think.",
     "short_title": "Closer than you think",
-    "keywords": ["motivation", "belief", "growth"],
+    "keywords": [
+      "motivation",
+      "belief",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -164,7 +244,11 @@
     "topic": "discipline",
     "quote": "Protect your focus like it matters.",
     "short_title": "Protect focus",
-    "keywords": ["focus", "discipline", "mindset"],
+    "keywords": [
+      "focus",
+      "discipline",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -172,7 +256,11 @@
     "topic": "minimalism",
     "quote": "Clarity creates confidence.",
     "short_title": "Clarity wins",
-    "keywords": ["clarity", "confidence", "growth"],
+    "keywords": [
+      "clarity",
+      "confidence",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -180,7 +268,11 @@
     "topic": "self_love",
     "quote": "Speak to yourself with respect.",
     "short_title": "Self respect",
-    "keywords": ["selflove", "confidence", "mindset"],
+    "keywords": [
+      "selflove",
+      "confidence",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -188,7 +280,11 @@
     "topic": "motivation",
     "quote": "Momentum starts with one move.",
     "short_title": "Build momentum",
-    "keywords": ["motivation", "action", "discipline"],
+    "keywords": [
+      "motivation",
+      "action",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -196,7 +292,11 @@
     "topic": "productivity",
     "quote": "Your priorities shape your results.",
     "short_title": "Choose priorities",
-    "keywords": ["productivity", "focus", "success"],
+    "keywords": [
+      "productivity",
+      "focus",
+      "success"
+    ],
     "used": false
   },
   {
@@ -204,7 +304,11 @@
     "topic": "discipline",
     "quote": "Hard days build strong minds.",
     "short_title": "Strong mind",
-    "keywords": ["discipline", "resilience", "growth"],
+    "keywords": [
+      "discipline",
+      "resilience",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -212,7 +316,11 @@
     "topic": "self_love",
     "quote": "You are allowed to grow slowly.",
     "short_title": "Grow slowly",
-    "keywords": ["selfgrowth", "patience", "mindset"],
+    "keywords": [
+      "selfgrowth",
+      "patience",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -220,7 +328,11 @@
     "topic": "motivation",
     "quote": "Effort never betrays you.",
     "short_title": "Effort matters",
-    "keywords": ["effort", "discipline", "success"],
+    "keywords": [
+      "effort",
+      "discipline",
+      "success"
+    ],
     "used": false
   },
   {
@@ -228,7 +340,11 @@
     "topic": "minimalism",
     "quote": "Simplicity sharpens strength.",
     "short_title": "Keep it simple",
-    "keywords": ["minimalism", "clarity", "focus"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -236,16 +352,23 @@
     "topic": "productivity",
     "quote": "Action removes doubt.",
     "short_title": "Take action",
-    "keywords": ["action", "confidence", "productivity"],
+    "keywords": [
+      "action",
+      "confidence",
+      "productivity"
+    ],
     "used": false
   },
-
   {
     "id": "q0031",
     "topic": "motivation",
     "quote": "Build habits, not excuses.",
     "short_title": "Build habits",
-    "keywords": ["habits", "discipline", "growth"],
+    "keywords": [
+      "habits",
+      "discipline",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -253,7 +376,11 @@
     "topic": "discipline",
     "quote": "Stay steady. Stay sharp.",
     "short_title": "Stay sharp",
-    "keywords": ["focus", "discipline", "mindset"],
+    "keywords": [
+      "focus",
+      "discipline",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -261,7 +388,11 @@
     "topic": "self_love",
     "quote": "Peace is productive too.",
     "short_title": "Peace works",
-    "keywords": ["balance", "selfcare", "growth"],
+    "keywords": [
+      "balance",
+      "selfcare",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -269,7 +400,11 @@
     "topic": "motivation",
     "quote": "Your future needs today's courage.",
     "short_title": "Choose courage",
-    "keywords": ["courage", "motivation", "action"],
+    "keywords": [
+      "courage",
+      "motivation",
+      "action"
+    ],
     "used": false
   },
   {
@@ -277,7 +412,11 @@
     "topic": "productivity",
     "quote": "Done is better than perfect.",
     "short_title": "Done wins",
-    "keywords": ["productivity", "progress", "focus"],
+    "keywords": [
+      "productivity",
+      "progress",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -285,7 +424,11 @@
     "topic": "motivation",
     "quote": "Your effort is planting seeds you can't see yet.",
     "short_title": "Plant seeds",
-    "keywords": ["motivation", "growth", "future"],
+    "keywords": [
+      "motivation",
+      "growth",
+      "future"
+    ],
     "used": false
   },
   {
@@ -293,7 +436,11 @@
     "topic": "discipline",
     "quote": "Discipline is self-respect in action.",
     "short_title": "Respect yourself",
-    "keywords": ["discipline", "selfrespect", "habits"],
+    "keywords": [
+      "discipline",
+      "selfrespect",
+      "habits"
+    ],
     "used": false
   },
   {
@@ -301,7 +448,11 @@
     "topic": "self_love",
     "quote": "You are not behind. You are becoming.",
     "short_title": "You are becoming",
-    "keywords": ["selflove", "growth", "mindset"],
+    "keywords": [
+      "selflove",
+      "growth",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -309,7 +460,11 @@
     "topic": "productivity",
     "quote": "Focus is a decision, not a feeling.",
     "short_title": "Choose focus",
-    "keywords": ["focus", "productivity", "discipline"],
+    "keywords": [
+      "focus",
+      "productivity",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -317,7 +472,11 @@
     "topic": "minimalism",
     "quote": "Clear space, clear mind.",
     "short_title": "Clear mind",
-    "keywords": ["minimalism", "clarity", "mindset"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -325,7 +484,11 @@
     "topic": "motivation",
     "quote": "Start small. Stay steady.",
     "short_title": "Start small",
-    "keywords": ["motivation", "habits", "growth"],
+    "keywords": [
+      "motivation",
+      "habits",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -333,7 +496,11 @@
     "topic": "discipline",
     "quote": "What you repeat, you become.",
     "short_title": "Repeat wisely",
-    "keywords": ["discipline", "habits", "identity"],
+    "keywords": [
+      "discipline",
+      "habits",
+      "identity"
+    ],
     "used": false
   },
   {
@@ -341,7 +508,11 @@
     "topic": "self_love",
     "quote": "Healing is progress too.",
     "short_title": "Healing counts",
-    "keywords": ["selfcare", "growth", "balance"],
+    "keywords": [
+      "selfcare",
+      "growth",
+      "balance"
+    ],
     "used": false
   },
   {
@@ -349,7 +520,11 @@
     "topic": "productivity",
     "quote": "Protect your time like it's gold.",
     "short_title": "Protect time",
-    "keywords": ["productivity", "focus", "success"],
+    "keywords": [
+      "productivity",
+      "focus",
+      "success"
+    ],
     "used": false
   },
   {
@@ -357,7 +532,11 @@
     "topic": "motivation",
     "quote": "One brave choice changes everything.",
     "short_title": "Be brave",
-    "keywords": ["courage", "action", "growth"],
+    "keywords": [
+      "courage",
+      "action",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -365,7 +544,11 @@
     "topic": "discipline",
     "quote": "Hard work compounds quietly.",
     "short_title": "Compound effort",
-    "keywords": ["discipline", "consistency", "growth"],
+    "keywords": [
+      "discipline",
+      "consistency",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -373,7 +556,11 @@
     "topic": "minimalism",
     "quote": "Less clutter, more clarity.",
     "short_title": "Less clutter",
-    "keywords": ["minimalism", "clarity", "focus"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -381,7 +568,11 @@
     "topic": "self_love",
     "quote": "Boundaries build better lives.",
     "short_title": "Set boundaries",
-    "keywords": ["selflove", "confidence", "mindset"],
+    "keywords": [
+      "selflove",
+      "confidence",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -389,7 +580,11 @@
     "topic": "productivity",
     "quote": "Start before motivation arrives.",
     "short_title": "Start anyway",
-    "keywords": ["action", "discipline", "productivity"],
+    "keywords": [
+      "action",
+      "discipline",
+      "productivity"
+    ],
     "used": false
   },
   {
@@ -397,16 +592,23 @@
     "topic": "motivation",
     "quote": "Your standards shape your future.",
     "short_title": "Raise standards",
-    "keywords": ["growth", "mindset", "discipline"],
+    "keywords": [
+      "growth",
+      "mindset",
+      "discipline"
+    ],
     "used": false
   },
-
   {
     "id": "q0051",
     "topic": "discipline",
     "quote": "Do the boring work well.",
     "short_title": "Master basics",
-    "keywords": ["discipline", "habits", "success"],
+    "keywords": [
+      "discipline",
+      "habits",
+      "success"
+    ],
     "used": false
   },
   {
@@ -414,7 +616,11 @@
     "topic": "self_love",
     "quote": "You are allowed to reset.",
     "short_title": "Reset allowed",
-    "keywords": ["selfcare", "growth", "balance"],
+    "keywords": [
+      "selfcare",
+      "growth",
+      "balance"
+    ],
     "used": false
   },
   {
@@ -422,7 +628,11 @@
     "topic": "productivity",
     "quote": "Clarity reduces overwhelm.",
     "short_title": "Reduce overwhelm",
-    "keywords": ["clarity", "focus", "productivity"],
+    "keywords": [
+      "clarity",
+      "focus",
+      "productivity"
+    ],
     "used": false
   },
   {
@@ -430,7 +640,11 @@
     "topic": "motivation",
     "quote": "Progress begins with honesty.",
     "short_title": "Be honest",
-    "keywords": ["growth", "mindset", "selfreflection"],
+    "keywords": [
+      "growth",
+      "mindset",
+      "selfreflection"
+    ],
     "used": false
   },
   {
@@ -438,16 +652,23 @@
     "topic": "minimalism",
     "quote": "Simplify to amplify.",
     "short_title": "Simplify",
-    "keywords": ["minimalism", "clarity", "focus"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
     "used": false
   },
-
   {
     "id": "q0056",
     "topic": "discipline",
     "quote": "Comfort rarely builds strength.",
     "short_title": "Choose strength",
-    "keywords": ["discipline", "resilience", "growth"],
+    "keywords": [
+      "discipline",
+      "resilience",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -455,7 +676,11 @@
     "topic": "self_love",
     "quote": "You matter more than you think.",
     "short_title": "You matter",
-    "keywords": ["selflove", "confidence", "worth"],
+    "keywords": [
+      "selflove",
+      "confidence",
+      "worth"
+    ],
     "used": false
   },
   {
@@ -463,7 +688,11 @@
     "topic": "productivity",
     "quote": "Priorities create progress.",
     "short_title": "Set priorities",
-    "keywords": ["productivity", "focus", "success"],
+    "keywords": [
+      "productivity",
+      "focus",
+      "success"
+    ],
     "used": false
   },
   {
@@ -471,7 +700,11 @@
     "topic": "motivation",
     "quote": "Your future self is watching.",
     "short_title": "Future self",
-    "keywords": ["motivation", "discipline", "growth"],
+    "keywords": [
+      "motivation",
+      "discipline",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -479,16 +712,23 @@
     "topic": "discipline",
     "quote": "Small wins build big confidence.",
     "short_title": "Small wins",
-    "keywords": ["discipline", "confidence", "habits"],
+    "keywords": [
+      "discipline",
+      "confidence",
+      "habits"
+    ],
     "used": false
   },
-
   {
     "id": "q0061",
     "topic": "minimalism",
     "quote": "Remove what distracts you.",
     "short_title": "Remove distractions",
-    "keywords": ["minimalism", "focus", "clarity"],
+    "keywords": [
+      "minimalism",
+      "focus",
+      "clarity"
+    ],
     "used": false
   },
   {
@@ -496,7 +736,11 @@
     "topic": "self_love",
     "quote": "Growth requires patience.",
     "short_title": "Be patient",
-    "keywords": ["selfgrowth", "mindset", "balance"],
+    "keywords": [
+      "selfgrowth",
+      "mindset",
+      "balance"
+    ],
     "used": false
   },
   {
@@ -504,7 +748,11 @@
     "topic": "productivity",
     "quote": "Action clears anxiety.",
     "short_title": "Take action",
-    "keywords": ["action", "focus", "productivity"],
+    "keywords": [
+      "action",
+      "focus",
+      "productivity"
+    ],
     "used": false
   },
   {
@@ -512,7 +760,11 @@
     "topic": "motivation",
     "quote": "Keep promises to yourself.",
     "short_title": "Keep promises",
-    "keywords": ["discipline", "confidence", "growth"],
+    "keywords": [
+      "discipline",
+      "confidence",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -520,16 +772,23 @@
     "topic": "discipline",
     "quote": "Your habits write your story.",
     "short_title": "Write your story",
-    "keywords": ["habits", "discipline", "identity"],
+    "keywords": [
+      "habits",
+      "discipline",
+      "identity"
+    ],
     "used": false
   },
-
   {
     "id": "q0066",
     "topic": "self_love",
     "quote": "Rest fuels resilience.",
     "short_title": "Rest fuels",
-    "keywords": ["selfcare", "balance", "growth"],
+    "keywords": [
+      "selfcare",
+      "balance",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -537,7 +796,11 @@
     "topic": "productivity",
     "quote": "Finish what you start.",
     "short_title": "Finish strong",
-    "keywords": ["productivity", "discipline", "focus"],
+    "keywords": [
+      "productivity",
+      "discipline",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -545,7 +808,11 @@
     "topic": "motivation",
     "quote": "You are capable of change.",
     "short_title": "You can change",
-    "keywords": ["motivation", "growth", "mindset"],
+    "keywords": [
+      "motivation",
+      "growth",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -553,7 +820,11 @@
     "topic": "minimalism",
     "quote": "Focus on what matters.",
     "short_title": "What matters",
-    "keywords": ["clarity", "focus", "minimalism"],
+    "keywords": [
+      "clarity",
+      "focus",
+      "minimalism"
+    ],
     "used": false
   },
   {
@@ -561,16 +832,23 @@
     "topic": "discipline",
     "quote": "Train your mind daily.",
     "short_title": "Train mind",
-    "keywords": ["discipline", "mindset", "growth"],
+    "keywords": [
+      "discipline",
+      "mindset",
+      "growth"
+    ],
     "used": false
   },
-
   {
     "id": "q0071",
     "topic": "self_love",
     "quote": "Confidence grows in action.",
     "short_title": "Grow confidence",
-    "keywords": ["confidence", "selflove", "growth"],
+    "keywords": [
+      "confidence",
+      "selflove",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -578,7 +856,11 @@
     "topic": "productivity",
     "quote": "Momentum loves consistency.",
     "short_title": "Build momentum",
-    "keywords": ["productivity", "discipline", "habits"],
+    "keywords": [
+      "productivity",
+      "discipline",
+      "habits"
+    ],
     "used": false
   },
   {
@@ -586,7 +868,11 @@
     "topic": "motivation",
     "quote": "Start again if you must.",
     "short_title": "Start again",
-    "keywords": ["motivation", "resilience", "growth"],
+    "keywords": [
+      "motivation",
+      "resilience",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -594,7 +880,11 @@
     "topic": "discipline",
     "quote": "Strong routines create freedom.",
     "short_title": "Routine freedom",
-    "keywords": ["discipline", "habits", "success"],
+    "keywords": [
+      "discipline",
+      "habits",
+      "success"
+    ],
     "used": false
   },
   {
@@ -602,16 +892,23 @@
     "topic": "minimalism",
     "quote": "Calm creates clarity.",
     "short_title": "Choose calm",
-    "keywords": ["minimalism", "clarity", "mindset"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "mindset"
+    ],
     "used": false
   },
-
   {
     "id": "q0076",
     "topic": "self_love",
     "quote": "Be gentle with your growth.",
     "short_title": "Gentle growth",
-    "keywords": ["selfcare", "growth", "mindset"],
+    "keywords": [
+      "selfcare",
+      "growth",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -619,7 +916,11 @@
     "topic": "productivity",
     "quote": "Decide. Act. Adjust.",
     "short_title": "Decide and act",
-    "keywords": ["action", "focus", "productivity"],
+    "keywords": [
+      "action",
+      "focus",
+      "productivity"
+    ],
     "used": false
   },
   {
@@ -627,7 +928,11 @@
     "topic": "motivation",
     "quote": "Your effort counts.",
     "short_title": "Effort counts",
-    "keywords": ["motivation", "discipline", "growth"],
+    "keywords": [
+      "motivation",
+      "discipline",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -635,7 +940,11 @@
     "topic": "discipline",
     "quote": "Consistency creates confidence.",
     "short_title": "Consistency wins",
-    "keywords": ["discipline", "confidence", "habits"],
+    "keywords": [
+      "discipline",
+      "confidence",
+      "habits"
+    ],
     "used": false
   },
   {
@@ -643,16 +952,23 @@
     "topic": "minimalism",
     "quote": "Choose quality over noise.",
     "short_title": "Choose quality",
-    "keywords": ["minimalism", "clarity", "focus"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
     "used": false
   },
-
   {
     "id": "q0081",
     "topic": "self_love",
     "quote": "Protect your energy.",
     "short_title": "Protect energy",
-    "keywords": ["selfcare", "boundaries", "balance"],
+    "keywords": [
+      "selfcare",
+      "boundaries",
+      "balance"
+    ],
     "used": false
   },
   {
@@ -660,7 +976,11 @@
     "topic": "productivity",
     "quote": "Clear plan. Clear action.",
     "short_title": "Clear plan",
-    "keywords": ["productivity", "focus", "clarity"],
+    "keywords": [
+      "productivity",
+      "focus",
+      "clarity"
+    ],
     "used": false
   },
   {
@@ -668,7 +988,11 @@
     "topic": "motivation",
     "quote": "You are building something meaningful.",
     "short_title": "Build meaning",
-    "keywords": ["motivation", "growth", "purpose"],
+    "keywords": [
+      "motivation",
+      "growth",
+      "purpose"
+    ],
     "used": false
   },
   {
@@ -676,7 +1000,11 @@
     "topic": "discipline",
     "quote": "Show up every day.",
     "short_title": "Show up",
-    "keywords": ["discipline", "consistency", "success"],
+    "keywords": [
+      "discipline",
+      "consistency",
+      "success"
+    ],
     "used": false
   },
   {
@@ -684,16 +1012,23 @@
     "topic": "minimalism",
     "quote": "Silence sharpens strength.",
     "short_title": "Silent strength",
-    "keywords": ["minimalism", "clarity", "mindset"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "mindset"
+    ],
     "used": false
   },
-
   {
     "id": "q0086",
     "topic": "self_love",
     "quote": "Trust your pace.",
     "short_title": "Trust your pace",
-    "keywords": ["selfgrowth", "confidence", "balance"],
+    "keywords": [
+      "selfgrowth",
+      "confidence",
+      "balance"
+    ],
     "used": false
   },
   {
@@ -701,7 +1036,11 @@
     "topic": "productivity",
     "quote": "One task at a time.",
     "short_title": "One task",
-    "keywords": ["productivity", "focus", "clarity"],
+    "keywords": [
+      "productivity",
+      "focus",
+      "clarity"
+    ],
     "used": false
   },
   {
@@ -709,7 +1048,11 @@
     "topic": "motivation",
     "quote": "Effort is never wasted.",
     "short_title": "No wasted effort",
-    "keywords": ["motivation", "growth", "discipline"],
+    "keywords": [
+      "motivation",
+      "growth",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -717,7 +1060,11 @@
     "topic": "discipline",
     "quote": "Earn your confidence.",
     "short_title": "Earn confidence",
-    "keywords": ["discipline", "confidence", "habits"],
+    "keywords": [
+      "discipline",
+      "confidence",
+      "habits"
+    ],
     "used": false
   },
   {
@@ -725,16 +1072,23 @@
     "topic": "minimalism",
     "quote": "Less chaos. More control.",
     "short_title": "More control",
-    "keywords": ["minimalism", "focus", "clarity"],
+    "keywords": [
+      "minimalism",
+      "focus",
+      "clarity"
+    ],
     "used": false
   },
-
   {
     "id": "q0091",
     "topic": "self_love",
     "quote": "You are learning every day.",
     "short_title": "Keep learning",
-    "keywords": ["selfgrowth", "mindset", "confidence"],
+    "keywords": [
+      "selfgrowth",
+      "mindset",
+      "confidence"
+    ],
     "used": false
   },
   {
@@ -742,7 +1096,11 @@
     "topic": "productivity",
     "quote": "Focus beats talent.",
     "short_title": "Focus first",
-    "keywords": ["focus", "discipline", "success"],
+    "keywords": [
+      "focus",
+      "discipline",
+      "success"
+    ],
     "used": false
   },
   {
@@ -750,7 +1108,11 @@
     "topic": "motivation",
     "quote": "Choose progress over comfort.",
     "short_title": "Choose progress",
-    "keywords": ["motivation", "growth", "discipline"],
+    "keywords": [
+      "motivation",
+      "growth",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -758,7 +1120,11 @@
     "topic": "discipline",
     "quote": "Discomfort builds strength.",
     "short_title": "Grow stronger",
-    "keywords": ["discipline", "resilience", "growth"],
+    "keywords": [
+      "discipline",
+      "resilience",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -766,16 +1132,23 @@
     "topic": "minimalism",
     "quote": "Clear space. Clear focus.",
     "short_title": "Clear focus",
-    "keywords": ["minimalism", "clarity", "focus"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
     "used": false
   },
-
   {
     "id": "q0096",
     "topic": "self_love",
     "quote": "You are enough while improving.",
     "short_title": "Enough and growing",
-    "keywords": ["selflove", "growth", "confidence"],
+    "keywords": [
+      "selflove",
+      "growth",
+      "confidence"
+    ],
     "used": false
   },
   {
@@ -783,7 +1156,11 @@
     "topic": "productivity",
     "quote": "Done today is powerful tomorrow.",
     "short_title": "Do it today",
-    "keywords": ["productivity", "action", "discipline"],
+    "keywords": [
+      "productivity",
+      "action",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -791,7 +1168,11 @@
     "topic": "motivation",
     "quote": "Stay committed to becoming better.",
     "short_title": "Stay committed",
-    "keywords": ["motivation", "growth", "discipline"],
+    "keywords": [
+      "motivation",
+      "growth",
+      "discipline"
+    ],
     "used": false
   },
   {
@@ -799,7 +1180,11 @@
     "topic": "discipline",
     "quote": "Daily effort wins.",
     "short_title": "Daily effort",
-    "keywords": ["discipline", "consistency", "success"],
+    "keywords": [
+      "discipline",
+      "consistency",
+      "success"
+    ],
     "used": false
   },
   {
@@ -807,16 +1192,23 @@
     "topic": "minimalism",
     "quote": "Focus creates freedom.",
     "short_title": "Freedom through focus",
-    "keywords": ["minimalism", "focus", "clarity"],
+    "keywords": [
+      "minimalism",
+      "focus",
+      "clarity"
+    ],
     "used": false
   },
-
   {
     "id": "q0101",
     "topic": "motivation",
     "quote": "Move forward, even slowly.",
     "short_title": "Keep moving",
-    "keywords": ["motivation", "progress", "growth"],
+    "keywords": [
+      "motivation",
+      "progress",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -824,7 +1216,11 @@
     "topic": "discipline",
     "quote": "Habits shape destiny.",
     "short_title": "Shape destiny",
-    "keywords": ["discipline", "habits", "success"],
+    "keywords": [
+      "discipline",
+      "habits",
+      "success"
+    ],
     "used": false
   },
   {
@@ -832,7 +1228,11 @@
     "topic": "self_love",
     "quote": "Take care of your future self.",
     "short_title": "Future self care",
-    "keywords": ["selfcare", "growth", "mindset"],
+    "keywords": [
+      "selfcare",
+      "growth",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -840,7 +1240,11 @@
     "topic": "productivity",
     "quote": "Clarity drives action.",
     "short_title": "Drive action",
-    "keywords": ["productivity", "clarity", "focus"],
+    "keywords": [
+      "productivity",
+      "clarity",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -848,7 +1252,11 @@
     "topic": "motivation",
     "quote": "Today is a fresh start.",
     "short_title": "Fresh start",
-    "keywords": ["motivation", "growth", "mindset"],
+    "keywords": [
+      "motivation",
+      "growth",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -856,7 +1264,11 @@
     "topic": "discipline",
     "quote": "Your routine defines you.",
     "short_title": "Define yourself",
-    "keywords": ["discipline", "habits", "identity"],
+    "keywords": [
+      "discipline",
+      "habits",
+      "identity"
+    ],
     "used": false
   },
   {
@@ -864,7 +1276,11 @@
     "topic": "minimalism",
     "quote": "Remove the unnecessary.",
     "short_title": "Remove noise",
-    "keywords": ["minimalism", "clarity", "focus"],
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
     "used": false
   },
   {
@@ -872,7 +1288,11 @@
     "topic": "self_love",
     "quote": "Honor your own journey.",
     "short_title": "Honor journey",
-    "keywords": ["selfgrowth", "confidence", "mindset"],
+    "keywords": [
+      "selfgrowth",
+      "confidence",
+      "mindset"
+    ],
     "used": false
   },
   {
@@ -880,7 +1300,11 @@
     "topic": "productivity",
     "quote": "Start simple. Improve daily.",
     "short_title": "Improve daily",
-    "keywords": ["productivity", "discipline", "growth"],
+    "keywords": [
+      "productivity",
+      "discipline",
+      "growth"
+    ],
     "used": false
   },
   {
@@ -888,7 +1312,11 @@
     "topic": "motivation",
     "quote": "Stay focused on your path.",
     "short_title": "Stay focused",
-    "keywords": ["motivation", "focus", "growth"],
+    "keywords": [
+      "motivation",
+      "focus",
+      "growth"
+    ],
     "used": false
   }
 ]
