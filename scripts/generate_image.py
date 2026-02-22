@@ -19,8 +19,6 @@ STOCK_PATH = "quotes/stock.json"
 TEMPLATE_DIR = "templates"
 OUTPUT_DIR = "output/images"
 
-# フォント（なければ自動フォールバック）
-# ※ GitHub Actionsでも確実に動かすなら、fonts/ にttfを同梱推奨
 FONT_CANDIDATES = [
     "fonts/PlayfairDisplay-Bold.ttf",
     "fonts/Montserrat-Bold.ttf",
@@ -29,17 +27,15 @@ FONT_CANDIDATES = [
 
 BASE_FONT_SIZE = 64
 MIN_FONT_SIZE = 42
-LINE_SPACING = 10  # 行間(px)
+LINE_SPACING = 10
 TEXT_COLOR = (255, 255, 255)
 
-# 文字を読みやすくする薄い影（ONにしておく）
 SHADOW = True
 SHADOW_OFFSET = (3, 4)
 SHADOW_COLOR = (0, 0, 0)
 
-# 背景を少し暗くして文字を読みやすく（ONにしておく）
 DARKEN_BG = True
-DARKEN_ALPHA = 80  # 0-255（大きいほど暗い）
+DARKEN_ALPHA = 80
 
 
 def ensure_dirs():
@@ -56,21 +52,19 @@ def save_stock(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def pick_unused(data, n=MAX_PER_RUN):
+def pick_unused_with_index(data, n=MAX_PER_RUN):
     picked = []
-    for item in data:
+    for idx, item in enumerate(data):
         if not item.get("used", False):
-            picked.append(item)
+            picked.append((idx, item))
             if len(picked) >= n:
                 break
     return picked
 
 
-def mark_used(data, ids):
-    ids_set = set(ids)
-    for item in data:
-        if item.get("id") in ids_set:
-            item["used"] = True
+def mark_used_by_index(data, indices):
+    for idx in indices:
+        data[idx]["used"] = True
 
 
 def choose_bg_path():
@@ -84,7 +78,6 @@ def load_font(size: int):
     for path in FONT_CANDIDATES:
         if os.path.exists(path):
             return ImageFont.truetype(path, size)
-    # 最後の手段（Pillowのデフォルト）
     return ImageFont.load_default()
 
 
@@ -97,40 +90,31 @@ def apply_darken(image: Image.Image):
 
 def measure_multiline(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.ImageFont):
     bbox = draw.multiline_textbbox((0, 0), text, font=font, spacing=LINE_SPACING, align="center")
-    w = bbox[2] - bbox[0]
-    h = bbox[3] - bbox[1]
-    return w, h
+    return (bbox[2] - bbox[0], bbox[3] - bbox[1])
 
 
 def wrap_to_fit(draw: ImageDraw.ImageDraw, raw: str, font: ImageFont.ImageFont, max_width: int):
-    # ざっくり words wrap: 幅に収まるように wrap 幅を探す
-    # まず長文で詰まりすぎを避けるために最大幅からスタート
-    words = raw.strip()
-    if not words:
+    raw = raw.strip()
+    if not raw:
         return ""
 
-    # 探索範囲（英語想定）
     for wrap_width in range(28, 10, -1):
-        wrapped = textwrap.fill(words, width=wrap_width)
+        wrapped = textwrap.fill(raw, width=wrap_width)
         w, _ = measure_multiline(draw, wrapped, font)
         if w <= max_width:
             return wrapped
 
-    # それでも無理なら強めに折り返し
-    return textwrap.fill(words, width=10)
+    return textwrap.fill(raw, width=10)
 
 
 def fit_text(draw: ImageDraw.ImageDraw, raw: str, box_w: int, box_h: int):
-    # フォントサイズを下げながら、幅＆高さに入る最適を探す
     for size in range(BASE_FONT_SIZE, MIN_FONT_SIZE - 1, -2):
         font = load_font(size)
         wrapped = wrap_to_fit(draw, raw, font, box_w)
         w, h = measure_multiline(draw, wrapped, font)
-
         if w <= box_w and h <= box_h:
             return wrapped, font
 
-    # 最後まで入らなければ最小フォントで返す
     font = load_font(MIN_FONT_SIZE)
     wrapped = wrap_to_fit(draw, raw, font, box_w)
     return wrapped, font
@@ -148,10 +132,8 @@ def draw_centered_text(image: Image.Image, text: str):
     y = (HEIGHT - text_h) / 2
 
     if SHADOW:
-        sx = x + SHADOW_OFFSET[0]
-        sy = y + SHADOW_OFFSET[1]
         draw.multiline_text(
-            (sx, sy),
+            (x + SHADOW_OFFSET[0], y + SHADOW_OFFSET[1]),
             wrapped,
             font=font,
             fill=SHADOW_COLOR,
@@ -169,15 +151,16 @@ def draw_centered_text(image: Image.Image, text: str):
     )
 
 
-def generate_one(quote_text: str, quote_id):
+def generate_one(quote_text: str, idx: int, run_no: int):
     bg_path = choose_bg_path()
     base = Image.open(bg_path).convert("RGB").resize((WIDTH, HEIGHT))
 
     base = apply_darken(base)
     draw_centered_text(base, quote_text)
 
-    ts = datetime.now().strftime("%Y%m%d%H%M%S")
-    filename = f"quote_{quote_id}_{ts}.jpg"
+    # ★ 被り防止：マイクロ秒 + 連番
+    ts = datetime.now().strftime("%Y%m%d%H%M%S%f")
+    filename = f"quote_{idx+1}_{run_no}_{ts}.jpg"
     out_path = os.path.join(OUTPUT_DIR, filename)
     base.save(out_path, quality=95)
     return out_path
@@ -187,32 +170,29 @@ def main():
     ensure_dirs()
 
     data = load_stock()
-    picked = pick_unused(data, n=MAX_PER_RUN)
+    picked = pick_unused_with_index(data, n=MAX_PER_RUN)
 
     if not picked:
         print("No unused quotes found. (used=false is empty)")
         return
 
-    generated_paths = []
-    used_ids = []
-
-    for item in picked:
-        quote_id = item.get("id")
-        quote_text = item.get("quote", "").strip()
+    used_indices = []
+    for run_no, (idx, item) in enumerate(picked, start=1):
+        quote_text = (item.get("quote") or item.get("text") or "").strip()
         if not quote_text:
+            print(f"Skip empty quote at index={idx}")
             continue
 
-        out_path = generate_one(quote_text, quote_id)
-        generated_paths.append(out_path)
-        used_ids.append(quote_id)
+        out_path = generate_one(quote_text, idx, run_no)
         print(f"Generated: {out_path}")
+        used_indices.append(idx)
 
-    if used_ids:
-        mark_used(data, used_ids)
+    if used_indices:
+        mark_used_by_index(data, used_indices)
         save_stock(data)
-        print(f"Marked used=true for IDs: {used_ids}")
+        print(f"Marked used=true for indices: {used_indices}")
 
-    print(f"Done. Generated {len(generated_paths)} image(s).")
+    print(f"Done. Generated {len(used_indices)} image(s).")
 
 
 if __name__ == "__main__":
