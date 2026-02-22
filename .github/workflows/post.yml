@@ -34,6 +34,20 @@ jobs:
         run: |
           git config user.name "quote-bot"
           git config user.email "quote-bot@users.noreply.github.com"
-          git add quotes/stock.json logs/posts.csv output/images || true
-          git commit -m "bot: generate one image" || echo "No changes"
+
+          # まず確実に存在するものだけ add
+          git add quotes/stock.json output/images || true
+
+          # もし logs/posts.csv が存在するなら add（無ければ無視）
+          if [ -f logs/posts.csv ]; then
+            git add logs/posts.csv
+          fi
+
+          # 変更がなければコミットしない
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "bot: generate images"
           git push
