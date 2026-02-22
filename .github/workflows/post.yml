@@ -27,17 +27,7 @@ jobs:
 
       - name: Generate images
         run: |
-          python scripts/generate_image.py
-
-      # ★ これを入れるだけで「本当に0枚か」が即わかる
-      - name: Debug after generate
-        run: |
-          echo "=== ls templates ==="
-          ls -la templates || true
-          echo "=== ls output/images ==="
-          ls -la output/images || true
-          echo "=== git status ==="
-          git status --porcelain || true
+          python src/run_once.py
 
       - name: Commit changes
         run: |
