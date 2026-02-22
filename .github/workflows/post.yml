@@ -26,9 +26,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run bot once
+      - name: Generate images
         run: |
-          python src/run_once.py
+          python scripts/generate_image.py
 
       - name: Commit changes
         run: |
