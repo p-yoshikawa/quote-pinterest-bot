@@ -237,7 +237,7 @@
       "belief",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0021",
@@ -249,7 +249,7 @@
       "discipline",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0022",
@@ -261,7 +261,7 @@
       "confidence",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0023",
