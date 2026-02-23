@@ -165,7 +165,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0015",
@@ -177,7 +177,7 @@
       "motivation",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0016",
@@ -189,7 +189,7 @@
       "clarity",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0017",
