@@ -174,7 +174,7 @@ def main():
     print(f"[INFO] remaining_unused={remaining}")
     
     if remaining <= 10:
-    print("[WARN] Stock is running low!")
+        print("[WARN] Stock is running low!")
 
 if __name__ == "__main__":
     main()
