@@ -141,7 +141,7 @@ def render_one(q, seq_no: int):
         qid = f"q{int(raw_id):04d}"
     
     out_path = OUTDIR / f"{ts}_{qid}_n{seq_no:02d}.png"
-        bg.save(out_path)
+    bg.save(out_path)
 
     return out_path
 
