@@ -129,7 +129,7 @@
       "action",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0012",
@@ -141,7 +141,7 @@
       "habits",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0013",
@@ -153,7 +153,7 @@
       "confidence",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0014",
