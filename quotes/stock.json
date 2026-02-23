@@ -201,7 +201,7 @@
       "resilience",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0018",
@@ -213,7 +213,7 @@
       "balance",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0019",
@@ -225,7 +225,7 @@
       "habits",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0020",
