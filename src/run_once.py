@@ -131,9 +131,17 @@ def render_one(q, seq_no: int):
 
     # ★ 衝突回避：同秒で3枚作っても上書きされないように連番を追加
     ts = datetime.now(JST).strftime("%Y%m%d_%H%M%S")
-    qid = f"q{int(q['id']):04d}"
+    raw_id = str(q.get("id", "0"))
+
+    # "q0011" → "q0011" のまま使う
+    # "11"    → "q0011" に整形
+    if raw_id.lower().startswith("q"):
+        qid = raw_id.lower()
+    else:
+        qid = f"q{int(raw_id):04d}"
+    
     out_path = OUTDIR / f"{ts}_{qid}_n{seq_no:02d}.png"
-    bg.save(out_path)
+        bg.save(out_path)
 
     return out_path
 
