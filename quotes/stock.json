@@ -273,7 +273,7 @@
       "confidence",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0024",
@@ -285,7 +285,7 @@
       "action",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0025",
@@ -297,7 +297,7 @@
       "focus",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0026",
