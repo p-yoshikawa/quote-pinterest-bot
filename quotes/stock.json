@@ -417,7 +417,7 @@
       "progress",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0036",
@@ -429,7 +429,7 @@
       "growth",
       "future"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0037",
@@ -441,7 +441,7 @@
       "selfrespect",
       "habits"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0038",
