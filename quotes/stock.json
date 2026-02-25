@@ -381,7 +381,7 @@
       "discipline",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0033",
@@ -393,7 +393,7 @@
       "selfcare",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0034",
@@ -405,7 +405,7 @@
       "motivation",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0035",
