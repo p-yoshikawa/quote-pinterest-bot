@@ -561,7 +561,7 @@
       "clarity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0048",
@@ -573,7 +573,7 @@
       "confidence",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0049",
@@ -585,7 +585,7 @@
       "discipline",
       "productivity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0050",
