@@ -525,7 +525,7 @@
       "focus",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0045",
@@ -537,7 +537,7 @@
       "action",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0046",
@@ -549,7 +549,7 @@
       "consistency",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0047",
