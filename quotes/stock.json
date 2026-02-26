@@ -489,7 +489,7 @@
       "habits",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0042",
@@ -501,7 +501,7 @@
       "habits",
       "identity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0043",
@@ -513,7 +513,7 @@
       "growth",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0044",
