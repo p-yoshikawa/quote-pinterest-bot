@@ -669,7 +669,7 @@
       "resilience",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0057",
@@ -681,7 +681,7 @@
       "confidence",
       "worth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0058",
@@ -693,7 +693,7 @@
       "focus",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0059",
