@@ -597,7 +597,7 @@
       "mindset",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0051",
@@ -609,7 +609,7 @@
       "habits",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0052",
@@ -621,7 +621,7 @@
       "growth",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0053",
