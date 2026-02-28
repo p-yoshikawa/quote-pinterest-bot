@@ -777,7 +777,7 @@
       "discipline",
       "identity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0066",
@@ -789,7 +789,7 @@
       "balance",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0067",
@@ -801,7 +801,7 @@
       "discipline",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0068",
