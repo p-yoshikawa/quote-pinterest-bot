@@ -705,7 +705,7 @@
       "discipline",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0060",
@@ -717,7 +717,7 @@
       "confidence",
       "habits"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0061",
@@ -729,7 +729,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0062",
