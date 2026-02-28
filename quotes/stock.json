@@ -741,7 +741,7 @@
       "mindset",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0063",
@@ -753,7 +753,7 @@
       "focus",
       "productivity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0064",
@@ -765,7 +765,7 @@
       "confidence",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0065",
