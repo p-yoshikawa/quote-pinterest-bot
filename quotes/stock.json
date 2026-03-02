@@ -957,7 +957,7 @@
       "clarity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0081",
@@ -969,7 +969,7 @@
       "boundaries",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0082",
@@ -981,7 +981,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0083",
