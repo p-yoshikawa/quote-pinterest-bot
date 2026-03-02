@@ -993,7 +993,7 @@
       "growth",
       "purpose"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0084",
@@ -1005,7 +1005,7 @@
       "consistency",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0085",
@@ -1017,7 +1017,7 @@
       "clarity",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0086",
