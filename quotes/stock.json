@@ -1065,7 +1065,7 @@
       "confidence",
       "habits"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0090",
@@ -1077,7 +1077,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0091",
@@ -1089,7 +1089,7 @@
       "mindset",
       "confidence"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0092",
