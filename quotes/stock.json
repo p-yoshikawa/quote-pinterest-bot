@@ -1101,7 +1101,7 @@
       "discipline",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0093",
@@ -1113,7 +1113,7 @@
       "growth",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0094",
@@ -1125,7 +1125,7 @@
       "resilience",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0095",
