@@ -1173,7 +1173,7 @@
       "growth",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0099",
@@ -1185,7 +1185,7 @@
       "consistency",
       "success"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0100",
@@ -1197,7 +1197,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0101",
