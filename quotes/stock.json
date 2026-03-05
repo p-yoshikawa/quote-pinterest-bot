@@ -1281,7 +1281,7 @@
       "clarity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0108",
@@ -1293,7 +1293,7 @@
       "confidence",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0109",
@@ -1305,7 +1305,7 @@
       "discipline",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0110",
