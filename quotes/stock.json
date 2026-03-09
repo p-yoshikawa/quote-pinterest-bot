@@ -1318,5 +1318,2405 @@
       "growth"
     ],
     "used": true
+  },
+  {
+    "id": "q0111",
+    "topic": "motivation",
+    "quote": "You grow every time you keep going.",
+    "short_title": "Keep going",
+    "keywords": [
+      "motivation",
+      "growth",
+      "resilience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0112",
+    "topic": "discipline",
+    "quote": "The small choice matters more than the loud promise.",
+    "short_title": "Small choice",
+    "keywords": [
+      "discipline",
+      "habits",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0113",
+    "topic": "productivity",
+    "quote": "A clear next step beats a perfect plan.",
+    "short_title": "Next step",
+    "keywords": [
+      "productivity",
+      "clarity",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0114",
+    "topic": "self_love",
+    "quote": "Give yourself the grace to learn in public.",
+    "short_title": "Learn with grace",
+    "keywords": [
+      "selflove",
+      "growth",
+      "confidence"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0115",
+    "topic": "minimalism",
+    "quote": "What you remove can matter more than what you add.",
+    "short_title": "Remove more",
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0116",
+    "topic": "mindset",
+    "quote": "Your direction improves when your attention does.",
+    "short_title": "Improve attention",
+    "keywords": [
+      "mindset",
+      "focus",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0117",
+    "topic": "habits",
+    "quote": "Make discipline automatic before you make it difficult.",
+    "short_title": "Automatic discipline",
+    "keywords": [
+      "habits",
+      "systems",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0118",
+    "topic": "stoic",
+    "quote": "Do the work. Leave the noise.",
+    "short_title": "Leave the noise",
+    "keywords": [
+      "stoic",
+      "focus",
+      "control"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0119",
+    "topic": "motivation",
+    "quote": "You do not need a new life. You need a new decision.",
+    "short_title": "New decision",
+    "keywords": [
+      "motivation",
+      "choice",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0120",
+    "topic": "productivity",
+    "quote": "One honest hour can rescue an unfocused day.",
+    "short_title": "Honest hour",
+    "keywords": [
+      "productivity",
+      "focus",
+      "time"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0121",
+    "topic": "self_love",
+    "quote": "Respect your limits and still believe in your power.",
+    "short_title": "Respect limits",
+    "keywords": [
+      "selflove",
+      "balance",
+      "confidence"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0122",
+    "topic": "discipline",
+    "quote": "Excuses get easier when standards get lower.",
+    "short_title": "Raise standards",
+    "keywords": [
+      "discipline",
+      "standards",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0123",
+    "topic": "minimalism",
+    "quote": "A quieter life makes louder truth.",
+    "short_title": "Quieter life",
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0124",
+    "topic": "mindset",
+    "quote": "If it matters, make room for it.",
+    "short_title": "Make room",
+    "keywords": [
+      "mindset",
+      "priorities",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0125",
+    "topic": "motivation",
+    "quote": "The next right step is enough for now.",
+    "short_title": "Next right step",
+    "keywords": [
+      "motivation",
+      "action",
+      "progress"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0126",
+    "topic": "productivity",
+    "quote": "Attention is your sharpest tool.",
+    "short_title": "Sharpest tool",
+    "keywords": [
+      "productivity",
+      "focus",
+      "deepwork"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0127",
+    "topic": "self_love",
+    "quote": "You are worthy of your own patience.",
+    "short_title": "Your patience",
+    "keywords": [
+      "selflove",
+      "worth",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0128",
+    "topic": "discipline",
+    "quote": "Routines protect you from random days.",
+    "short_title": "Protect with routine",
+    "keywords": [
+      "discipline",
+      "routine",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0129",
+    "topic": "habits",
+    "quote": "The life you want is hidden in your repeated actions.",
+    "short_title": "Repeated actions",
+    "keywords": [
+      "habits",
+      "identity",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0130",
+    "topic": "stoic",
+    "quote": "Peace grows when you stop arguing with reality.",
+    "short_title": "Stop arguing",
+    "keywords": [
+      "stoic",
+      "peace",
+      "acceptance"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0131",
+    "topic": "motivation",
+    "quote": "You are allowed to begin imperfectly.",
+    "short_title": "Begin imperfectly",
+    "keywords": [
+      "motivation",
+      "start",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0132",
+    "topic": "productivity",
+    "quote": "Less switching. More finishing.",
+    "short_title": "More finishing",
+    "keywords": [
+      "productivity",
+      "focus",
+      "execution"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0133",
+    "topic": "self_love",
+    "quote": "Care for yourself with the same honesty you give others.",
+    "short_title": "Honest care",
+    "keywords": [
+      "selflove",
+      "boundaries",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0134",
+    "topic": "minimalism",
+    "quote": "Protect your energy by simplifying your choices.",
+    "short_title": "Simplify choices",
+    "keywords": [
+      "minimalism",
+      "energy",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0135",
+    "topic": "mindset",
+    "quote": "A better identity begins with a better standard.",
+    "short_title": "Better standard",
+    "keywords": [
+      "mindset",
+      "identity",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0136",
+    "topic": "discipline",
+    "quote": "Skill grows where excuses stop.",
+    "short_title": "Grow skill",
+    "keywords": [
+      "discipline",
+      "effort",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0137",
+    "topic": "motivation",
+    "quote": "Today's effort is tomorrow's evidence.",
+    "short_title": "Tomorrow's evidence",
+    "keywords": [
+      "motivation",
+      "effort",
+      "future"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0138",
+    "topic": "productivity",
+    "quote": "When the plan is simple, action feels lighter.",
+    "short_title": "Simple plan",
+    "keywords": [
+      "productivity",
+      "clarity",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0139",
+    "topic": "self_love",
+    "quote": "You can slow down without giving up.",
+    "short_title": "Slow down",
+    "keywords": [
+      "selflove",
+      "balance",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0140",
+    "topic": "habits",
+    "quote": "Win the morning, and the rest gets easier.",
+    "short_title": "Win morning",
+    "keywords": [
+      "habits",
+      "routine",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0141",
+    "topic": "stoic",
+    "quote": "Not every thought deserves your obedience.",
+    "short_title": "Choose thoughts",
+    "keywords": [
+      "stoic",
+      "mindset",
+      "control"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0142",
+    "topic": "motivation",
+    "quote": "Do not measure growth only by speed.",
+    "short_title": "Not by speed",
+    "keywords": [
+      "motivation",
+      "growth",
+      "patience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0143",
+    "topic": "productivity",
+    "quote": "Protect the first hour and the rest improves.",
+    "short_title": "First hour",
+    "keywords": [
+      "productivity",
+      "focus",
+      "routine"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0144",
+    "topic": "discipline",
+    "quote": "Your future trusts the habits you build today.",
+    "short_title": "Future trust",
+    "keywords": [
+      "discipline",
+      "habits",
+      "future"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0145",
+    "topic": "self_love",
+    "quote": "You do not need to earn rest with suffering.",
+    "short_title": "Rest freely",
+    "keywords": [
+      "selflove",
+      "rest",
+      "balance"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0146",
+    "topic": "minimalism",
+    "quote": "What stays should support what matters.",
+    "short_title": "What stays",
+    "keywords": [
+      "minimalism",
+      "focus",
+      "purpose"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0147",
+    "topic": "mindset",
+    "quote": "Confidence follows clarity more often than hype.",
+    "short_title": "Clarity before hype",
+    "keywords": [
+      "mindset",
+      "confidence",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0148",
+    "topic": "motivation",
+    "quote": "You are still in the middle, not the end.",
+    "short_title": "Still becoming",
+    "keywords": [
+      "motivation",
+      "resilience",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0149",
+    "topic": "productivity",
+    "quote": "A finished task creates more peace than a postponed one.",
+    "short_title": "Finish tasks",
+    "keywords": [
+      "productivity",
+      "action",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0150",
+    "topic": "habits",
+    "quote": "Easy choices repeated become strong character.",
+    "short_title": "Repeated choices",
+    "keywords": [
+      "habits",
+      "character",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0151",
+    "topic": "stoic",
+    "quote": "You cannot calm the storm, but you can steady yourself.",
+    "short_title": "Steady yourself",
+    "keywords": [
+      "stoic",
+      "resilience",
+      "control"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0152",
+    "topic": "motivation",
+    "quote": "One committed day can rebuild momentum.",
+    "short_title": "Rebuild momentum",
+    "keywords": [
+      "motivation",
+      "momentum",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0153",
+    "topic": "self_love",
+    "quote": "Protect your peace without apologizing for it.",
+    "short_title": "Protect peace",
+    "keywords": [
+      "selflove",
+      "boundaries",
+      "peace"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0154",
+    "topic": "discipline",
+    "quote": "The hardest part is often the first honest minute.",
+    "short_title": "First minute",
+    "keywords": [
+      "discipline",
+      "action",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0155",
+    "topic": "minimalism",
+    "quote": "Clarity is often subtraction in disguise.",
+    "short_title": "Subtraction",
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0156",
+    "topic": "mindset",
+    "quote": "Your identity is built in quiet decisions.",
+    "short_title": "Quiet decisions",
+    "keywords": [
+      "mindset",
+      "identity",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0157",
+    "topic": "productivity",
+    "quote": "The task gets lighter once you begin it.",
+    "short_title": "Begin task",
+    "keywords": [
+      "productivity",
+      "action",
+      "overwhelm"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0158",
+    "topic": "habits",
+    "quote": "Build a routine your tired self can still follow.",
+    "short_title": "Tired routine",
+    "keywords": [
+      "habits",
+      "routine",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0159",
+    "topic": "motivation",
+    "quote": "A steady pace still reaches the goal.",
+    "short_title": "Steady pace",
+    "keywords": [
+      "motivation",
+      "progress",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0160",
+    "topic": "stoic",
+    "quote": "Self-command is a deeper freedom.",
+    "short_title": "Self command",
+    "keywords": [
+      "stoic",
+      "discipline",
+      "freedom"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0161",
+    "topic": "self_love",
+    "quote": "You can be proud of progress no one else sees.",
+    "short_title": "Hidden progress",
+    "keywords": [
+      "selflove",
+      "progress",
+      "worth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0162",
+    "topic": "discipline",
+    "quote": "Guard your mornings from your distractions.",
+    "short_title": "Guard mornings",
+    "keywords": [
+      "discipline",
+      "focus",
+      "routine"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0163",
+    "topic": "productivity",
+    "quote": "Your calendar reveals your real priorities.",
+    "short_title": "Real priorities",
+    "keywords": [
+      "productivity",
+      "priorities",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0164",
+    "topic": "minimalism",
+    "quote": "Simplicity gives strength somewhere to stand.",
+    "short_title": "Strength to stand",
+    "keywords": [
+      "minimalism",
+      "strength",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0165",
+    "topic": "mindset",
+    "quote": "The story you repeat becomes the life you defend.",
+    "short_title": "Repeated story",
+    "keywords": [
+      "mindset",
+      "identity",
+      "belief"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0166",
+    "topic": "habits",
+    "quote": "A strong system rescues weak motivation.",
+    "short_title": "Strong system",
+    "keywords": [
+      "habits",
+      "systems",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0167",
+    "topic": "motivation",
+    "quote": "You can outgrow a version of yourself with daily effort.",
+    "short_title": "Outgrow yourself",
+    "keywords": [
+      "motivation",
+      "growth",
+      "effort"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0168",
+    "topic": "self_love",
+    "quote": "Self-respect sounds like a kinder inner voice.",
+    "short_title": "Kinder voice",
+    "keywords": [
+      "selflove",
+      "selfrespect",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0169",
+    "topic": "discipline",
+    "quote": "Finish the small things before they become heavy.",
+    "short_title": "Finish small",
+    "keywords": [
+      "discipline",
+      "consistency",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0170",
+    "topic": "productivity",
+    "quote": "Decision fatigue fades when priorities are fixed.",
+    "short_title": "Fix priorities",
+    "keywords": [
+      "productivity",
+      "clarity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0171",
+    "topic": "stoic",
+    "quote": "Master the response, not the result.",
+    "short_title": "Master response",
+    "keywords": [
+      "stoic",
+      "control",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0172",
+    "topic": "minimalism",
+    "quote": "You think better when your life has fewer tabs open.",
+    "short_title": "Fewer tabs",
+    "keywords": [
+      "minimalism",
+      "focus",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0173",
+    "topic": "mindset",
+    "quote": "Direction is built by choosing again and again.",
+    "short_title": "Choose again",
+    "keywords": [
+      "mindset",
+      "direction",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0174",
+    "topic": "motivation",
+    "quote": "Progress loves people who keep showing up.",
+    "short_title": "Keep showing up",
+    "keywords": [
+      "motivation",
+      "progress",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0175",
+    "topic": "habits",
+    "quote": "Your routines are voting for your future.",
+    "short_title": "Vote future",
+    "keywords": [
+      "habits",
+      "future",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0176",
+    "topic": "self_love",
+    "quote": "Make your own wellbeing a daily priority.",
+    "short_title": "Your wellbeing",
+    "keywords": [
+      "selflove",
+      "selfcare",
+      "priorities"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0177",
+    "topic": "discipline",
+    "quote": "A disciplined life begins with a clean promise.",
+    "short_title": "Clean promise",
+    "keywords": [
+      "discipline",
+      "integrity",
+      "habits"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0178",
+    "topic": "productivity",
+    "quote": "The best plan is the one you will actually use.",
+    "short_title": "Usable plan",
+    "keywords": [
+      "productivity",
+      "systems",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0179",
+    "topic": "minimalism",
+    "quote": "More intention, fewer inputs.",
+    "short_title": "Fewer inputs",
+    "keywords": [
+      "minimalism",
+      "intention",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0180",
+    "topic": "mindset",
+    "quote": "Belief gets stronger when action confirms it.",
+    "short_title": "Confirm belief",
+    "keywords": [
+      "mindset",
+      "confidence",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0181",
+    "topic": "motivation",
+    "quote": "Give the day one reason to feel proud.",
+    "short_title": "One reason",
+    "keywords": [
+      "motivation",
+      "effort",
+      "progress"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0182",
+    "topic": "stoic",
+    "quote": "Calm is trained, not found.",
+    "short_title": "Train calm",
+    "keywords": [
+      "stoic",
+      "mindset",
+      "resilience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0183",
+    "topic": "self_love",
+    "quote": "Let your pace be honest, not ashamed.",
+    "short_title": "Honest pace",
+    "keywords": [
+      "selflove",
+      "patience",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0184",
+    "topic": "habits",
+    "quote": "Small discipline makes big freedom possible.",
+    "short_title": "Discipline freedom",
+    "keywords": [
+      "habits",
+      "freedom",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0185",
+    "topic": "discipline",
+    "quote": "Protect your standards when no one is watching.",
+    "short_title": "Protect standards",
+    "keywords": [
+      "discipline",
+      "character",
+      "standards"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0186",
+    "topic": "productivity",
+    "quote": "One list, one task, one move.",
+    "short_title": "One move",
+    "keywords": [
+      "productivity",
+      "focus",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0187",
+    "topic": "minimalism",
+    "quote": "Your life gets louder when your values get clearer.",
+    "short_title": "Clear values",
+    "keywords": [
+      "minimalism",
+      "values",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0188",
+    "topic": "mindset",
+    "quote": "A focused mind is built, not inherited.",
+    "short_title": "Build focus",
+    "keywords": [
+      "mindset",
+      "focus",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0189",
+    "topic": "motivation",
+    "quote": "Be the person who keeps the promise today.",
+    "short_title": "Keep it today",
+    "keywords": [
+      "motivation",
+      "discipline",
+      "integrity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0190",
+    "topic": "self_love",
+    "quote": "You can rest and still be ambitious.",
+    "short_title": "Rest and grow",
+    "keywords": [
+      "selflove",
+      "rest",
+      "ambition"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0191",
+    "topic": "stoic",
+    "quote": "Patience is power that does not panic.",
+    "short_title": "Patient power",
+    "keywords": [
+      "stoic",
+      "patience",
+      "strength"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0192",
+    "topic": "habits",
+    "quote": "Reduce friction for the life you want.",
+    "short_title": "Reduce friction",
+    "keywords": [
+      "habits",
+      "systems",
+      "design"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0193",
+    "topic": "discipline",
+    "quote": "Your effort becomes identity when it becomes routine.",
+    "short_title": "Routine identity",
+    "keywords": [
+      "discipline",
+      "identity",
+      "routine"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0194",
+    "topic": "productivity",
+    "quote": "A calm plan outruns a rushed one.",
+    "short_title": "Calm plan",
+    "keywords": [
+      "productivity",
+      "clarity",
+      "execution"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0195",
+    "topic": "minimalism",
+    "quote": "Less reaction. More intention.",
+    "short_title": "More intention",
+    "keywords": [
+      "minimalism",
+      "mindset",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0196",
+    "topic": "mindset",
+    "quote": "You become clearer when you stop negotiating with distractions.",
+    "short_title": "Stop negotiating",
+    "keywords": [
+      "mindset",
+      "focus",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0197",
+    "topic": "motivation",
+    "quote": "A better future begins with a brave ordinary day.",
+    "short_title": "Brave day",
+    "keywords": [
+      "motivation",
+      "future",
+      "courage"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0198",
+    "topic": "self_love",
+    "quote": "Treat your recovery like part of your discipline.",
+    "short_title": "Recovery discipline",
+    "keywords": [
+      "selflove",
+      "rest",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0199",
+    "topic": "stoic",
+    "quote": "What you practice in peace appears under pressure.",
+    "short_title": "Practice peace",
+    "keywords": [
+      "stoic",
+      "resilience",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0200",
+    "topic": "habits",
+    "quote": "Consistency is easier when the process is simple.",
+    "short_title": "Simple process",
+    "keywords": [
+      "habits",
+      "consistency",
+      "systems"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0201",
+    "topic": "discipline",
+    "quote": "The quiet standards matter most.",
+    "short_title": "Quiet standards",
+    "keywords": [
+      "discipline",
+      "standards",
+      "integrity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0202",
+    "topic": "productivity",
+    "quote": "Overwhelm shrinks when the next step is obvious.",
+    "short_title": "Obvious next step",
+    "keywords": [
+      "productivity",
+      "overwhelm",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0203",
+    "topic": "minimalism",
+    "quote": "The mind relaxes when the unnecessary leaves.",
+    "short_title": "Mind relaxes",
+    "keywords": [
+      "minimalism",
+      "peace",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0204",
+    "topic": "mindset",
+    "quote": "Your progress deserves your attention too.",
+    "short_title": "Notice progress",
+    "keywords": [
+      "mindset",
+      "growth",
+      "awareness"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0205",
+    "topic": "motivation",
+    "quote": "Keep building, even if no one claps yet.",
+    "short_title": "Build anyway",
+    "keywords": [
+      "motivation",
+      "resilience",
+      "effort"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0206",
+    "topic": "self_love",
+    "quote": "Speak to your future with present care.",
+    "short_title": "Present care",
+    "keywords": [
+      "selflove",
+      "future",
+      "selfcare"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0207",
+    "topic": "discipline",
+    "quote": "Choose the standard before the moment arrives.",
+    "short_title": "Choose standard",
+    "keywords": [
+      "discipline",
+      "preparation",
+      "integrity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0208",
+    "topic": "productivity",
+    "quote": "Focus grows where planning gets practical.",
+    "short_title": "Practical planning",
+    "keywords": [
+      "productivity",
+      "focus",
+      "planning"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0209",
+    "topic": "stoic",
+    "quote": "The strongest reply is often steady action.",
+    "short_title": "Steady action",
+    "keywords": [
+      "stoic",
+      "action",
+      "strength"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0210",
+    "topic": "habits",
+    "quote": "Your systems decide what your effort becomes.",
+    "short_title": "Systems decide",
+    "keywords": [
+      "habits",
+      "systems",
+      "results"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0211",
+    "topic": "motivation",
+    "quote": "The path gets clearer after the first step.",
+    "short_title": "Clearer path",
+    "keywords": [
+      "motivation",
+      "action",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0212",
+    "topic": "minimalism",
+    "quote": "A simple schedule protects deep work.",
+    "short_title": "Simple schedule",
+    "keywords": [
+      "minimalism",
+      "deepwork",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0213",
+    "topic": "mindset",
+    "quote": "Confidence is often clarity with repetition.",
+    "short_title": "Repeat clarity",
+    "keywords": [
+      "mindset",
+      "confidence",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0214",
+    "topic": "self_love",
+    "quote": "Honor your needs before they become emergencies.",
+    "short_title": "Honor needs",
+    "keywords": [
+      "selflove",
+      "boundaries",
+      "balance"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0215",
+    "topic": "discipline",
+    "quote": "Keep your word in small things.",
+    "short_title": "Small integrity",
+    "keywords": [
+      "discipline",
+      "integrity",
+      "habits"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0216",
+    "topic": "productivity",
+    "quote": "Not everything urgent is important.",
+    "short_title": "Urgent vs important",
+    "keywords": [
+      "productivity",
+      "priorities",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0217",
+    "topic": "stoic",
+    "quote": "Steady minds make better choices.",
+    "short_title": "Steady choices",
+    "keywords": [
+      "stoic",
+      "mindset",
+      "judgment"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0218",
+    "topic": "habits",
+    "quote": "The easier the routine, the longer it lasts.",
+    "short_title": "Lasting routine",
+    "keywords": [
+      "habits",
+      "routine",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0219",
+    "topic": "motivation",
+    "quote": "Effort is a bridge, not a guarantee.",
+    "short_title": "Effort bridge",
+    "keywords": [
+      "motivation",
+      "effort",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0220",
+    "topic": "minimalism",
+    "quote": "Protect your attention with fewer decisions.",
+    "short_title": "Fewer decisions",
+    "keywords": [
+      "minimalism",
+      "attention",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0221",
+    "topic": "mindset",
+    "quote": "What you tolerate teaches you who you are.",
+    "short_title": "What you tolerate",
+    "keywords": [
+      "mindset",
+      "standards",
+      "identity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0222",
+    "topic": "self_love",
+    "quote": "Peace can be a form of progress.",
+    "short_title": "Peace is progress",
+    "keywords": [
+      "selflove",
+      "peace",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0223",
+    "topic": "discipline",
+    "quote": "Keep the standard, especially on ordinary days.",
+    "short_title": "Ordinary days",
+    "keywords": [
+      "discipline",
+      "consistency",
+      "standards"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0224",
+    "topic": "productivity",
+    "quote": "The first finished task changes the whole day.",
+    "short_title": "First finish",
+    "keywords": [
+      "productivity",
+      "momentum",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0225",
+    "topic": "stoic",
+    "quote": "Freedom begins when reaction stops leading.",
+    "short_title": "Stop reacting",
+    "keywords": [
+      "stoic",
+      "freedom",
+      "control"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0226",
+    "topic": "habits",
+    "quote": "What you do daily becomes easier to trust.",
+    "short_title": "Daily trust",
+    "keywords": [
+      "habits",
+      "confidence",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0227",
+    "topic": "motivation",
+    "quote": "Try again with less drama and more patience.",
+    "short_title": "Try again",
+    "keywords": [
+      "motivation",
+      "patience",
+      "resilience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0228",
+    "topic": "minimalism",
+    "quote": "More room can mean more direction.",
+    "short_title": "More room",
+    "keywords": [
+      "minimalism",
+      "direction",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0229",
+    "topic": "mindset",
+    "quote": "A clear no protects a meaningful yes.",
+    "short_title": "Clear no",
+    "keywords": [
+      "mindset",
+      "boundaries",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0230",
+    "topic": "self_love",
+    "quote": "Your body is not a machine. Respect the pace.",
+    "short_title": "Respect the pace",
+    "keywords": [
+      "selflove",
+      "balance",
+      "selfcare"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0231",
+    "topic": "discipline",
+    "quote": "Train the standard before you need the strength.",
+    "short_title": "Train standard",
+    "keywords": [
+      "discipline",
+      "preparation",
+      "strength"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0232",
+    "topic": "productivity",
+    "quote": "One decision made early saves hours later.",
+    "short_title": "Early decision",
+    "keywords": [
+      "productivity",
+      "time",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0233",
+    "topic": "stoic",
+    "quote": "Control your pace, not their opinion.",
+    "short_title": "Your pace",
+    "keywords": [
+      "stoic",
+      "control",
+      "confidence"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0234",
+    "topic": "habits",
+    "quote": "Discipline gets easier when values get clearer.",
+    "short_title": "Clear values",
+    "keywords": [
+      "habits",
+      "values",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0235",
+    "topic": "motivation",
+    "quote": "The work is working, even when it feels quiet.",
+    "short_title": "Quiet work",
+    "keywords": [
+      "motivation",
+      "progress",
+      "belief"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0236",
+    "topic": "minimalism",
+    "quote": "Clarity grows in uncrowded spaces.",
+    "short_title": "Uncrowded space",
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0237",
+    "topic": "mindset",
+    "quote": "You do not need certainty to take the next step.",
+    "short_title": "No certainty",
+    "keywords": [
+      "mindset",
+      "courage",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0238",
+    "topic": "self_love",
+    "quote": "Make room for recovery without guilt.",
+    "short_title": "Recovery room",
+    "keywords": [
+      "selflove",
+      "rest",
+      "balance"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0239",
+    "topic": "discipline",
+    "quote": "A repeated standard becomes personal power.",
+    "short_title": "Repeated standard",
+    "keywords": [
+      "discipline",
+      "power",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0240",
+    "topic": "productivity",
+    "quote": "The right constraint creates better work.",
+    "short_title": "Right constraint",
+    "keywords": [
+      "productivity",
+      "focus",
+      "systems"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0241",
+    "topic": "stoic",
+    "quote": "Strong minds stay useful under pressure.",
+    "short_title": "Useful under pressure",
+    "keywords": [
+      "stoic",
+      "resilience",
+      "strength"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0242",
+    "topic": "habits",
+    "quote": "A visible routine makes discipline easier to keep.",
+    "short_title": "Visible routine",
+    "keywords": [
+      "habits",
+      "routine",
+      "systems"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0243",
+    "topic": "motivation",
+    "quote": "Show up for the version of you you respect.",
+    "short_title": "Show up with respect",
+    "keywords": [
+      "motivation",
+      "identity",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0244",
+    "topic": "minimalism",
+    "quote": "Less urgency, more intention.",
+    "short_title": "Less urgency",
+    "keywords": [
+      "minimalism",
+      "intention",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0245",
+    "topic": "mindset",
+    "quote": "The clearest life is often the least crowded one.",
+    "short_title": "Least crowded",
+    "keywords": [
+      "mindset",
+      "clarity",
+      "minimalism"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0246",
+    "topic": "self_love",
+    "quote": "You can choose peace without choosing less ambition.",
+    "short_title": "Peace and ambition",
+    "keywords": [
+      "selflove",
+      "peace",
+      "ambition"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0247",
+    "topic": "discipline",
+    "quote": "Your standards are strongest in private.",
+    "short_title": "Private standards",
+    "keywords": [
+      "discipline",
+      "integrity",
+      "character"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0248",
+    "topic": "productivity",
+    "quote": "A simple workflow beats scattered effort.",
+    "short_title": "Simple workflow",
+    "keywords": [
+      "productivity",
+      "systems",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0249",
+    "topic": "stoic",
+    "quote": "Discipline is peace with direction.",
+    "short_title": "Peace with direction",
+    "keywords": [
+      "stoic",
+      "discipline",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0250",
+    "topic": "habits",
+    "quote": "The routine you repeat becomes the mood you live in.",
+    "short_title": "Routine mood",
+    "keywords": [
+      "habits",
+      "routine",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0251",
+    "topic": "motivation",
+    "quote": "A patient person can build remarkable things.",
+    "short_title": "Patient builder",
+    "keywords": [
+      "motivation",
+      "patience",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0252",
+    "topic": "minimalism",
+    "quote": "Subtract the noise and the answer gets louder.",
+    "short_title": "Subtract noise",
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0253",
+    "topic": "mindset",
+    "quote": "The quality of your attention shapes the quality of your life.",
+    "short_title": "Quality attention",
+    "keywords": [
+      "mindset",
+      "focus",
+      "life"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0254",
+    "topic": "self_love",
+    "quote": "You are allowed to protect your tomorrow today.",
+    "short_title": "Protect tomorrow",
+    "keywords": [
+      "selflove",
+      "future",
+      "boundaries"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0255",
+    "topic": "discipline",
+    "quote": "Strength is often keeping the promise again.",
+    "short_title": "Keep promise again",
+    "keywords": [
+      "discipline",
+      "consistency",
+      "strength"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0256",
+    "topic": "productivity",
+    "quote": "Fewer open loops. Better work.",
+    "short_title": "Open loops",
+    "keywords": [
+      "productivity",
+      "focus",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0257",
+    "topic": "stoic",
+    "quote": "You become reliable by responding, not reacting.",
+    "short_title": "Respond, don't react",
+    "keywords": [
+      "stoic",
+      "control",
+      "character"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0258",
+    "topic": "habits",
+    "quote": "A good system makes good effort easier.",
+    "short_title": "Good system",
+    "keywords": [
+      "habits",
+      "systems",
+      "effort"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0259",
+    "topic": "motivation",
+    "quote": "Your slow season can still be a growing season.",
+    "short_title": "Growing season",
+    "keywords": [
+      "motivation",
+      "growth",
+      "patience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0260",
+    "topic": "minimalism",
+    "quote": "Order creates breathing room for better thought.",
+    "short_title": "Breathing room",
+    "keywords": [
+      "minimalism",
+      "order",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0261",
+    "topic": "mindset",
+    "quote": "Where your focus goes, your identity follows.",
+    "short_title": "Focus identity",
+    "keywords": [
+      "mindset",
+      "identity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0262",
+    "topic": "self_love",
+    "quote": "Be on your own side while you improve.",
+    "short_title": "Your own side",
+    "keywords": [
+      "selflove",
+      "growth",
+      "confidence"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0263",
+    "topic": "discipline",
+    "quote": "The goal is easier when the environment helps.",
+    "short_title": "Helpful environment",
+    "keywords": [
+      "discipline",
+      "environment",
+      "systems"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0264",
+    "topic": "productivity",
+    "quote": "A sharp day starts with fewer decisions.",
+    "short_title": "Sharp day",
+    "keywords": [
+      "productivity",
+      "clarity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0265",
+    "topic": "stoic",
+    "quote": "Calm effort outlasts emotional urgency.",
+    "short_title": "Calm effort",
+    "keywords": [
+      "stoic",
+      "effort",
+      "resilience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0266",
+    "topic": "habits",
+    "quote": "Small structure can rescue a hard week.",
+    "short_title": "Small structure",
+    "keywords": [
+      "habits",
+      "routine",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0267",
+    "topic": "motivation",
+    "quote": "You are still moving, even when it feels slow.",
+    "short_title": "Still moving",
+    "keywords": [
+      "motivation",
+      "progress",
+      "patience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0268",
+    "topic": "minimalism",
+    "quote": "Simplify the inputs and strengthen the output.",
+    "short_title": "Simplify inputs",
+    "keywords": [
+      "minimalism",
+      "focus",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0269",
+    "topic": "mindset",
+    "quote": "A disciplined mind spends less time bargaining.",
+    "short_title": "Less bargaining",
+    "keywords": [
+      "mindset",
+      "discipline",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0270",
+    "topic": "self_love",
+    "quote": "Let self-respect guide the next decision.",
+    "short_title": "Guide next decision",
+    "keywords": [
+      "selflove",
+      "selfrespect",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0271",
+    "topic": "discipline",
+    "quote": "Do not wait for ease to begin the routine.",
+    "short_title": "Begin routine",
+    "keywords": [
+      "discipline",
+      "routine",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0272",
+    "topic": "productivity",
+    "quote": "When you know the priority, energy follows.",
+    "short_title": "Priority first",
+    "keywords": [
+      "productivity",
+      "priorities",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0273",
+    "topic": "stoic",
+    "quote": "Direction matters more than emotion.",
+    "short_title": "Direction first",
+    "keywords": [
+      "stoic",
+      "mindset",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0274",
+    "topic": "habits",
+    "quote": "Consistency begins where complexity ends.",
+    "short_title": "End complexity",
+    "keywords": [
+      "habits",
+      "consistency",
+      "simplicity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0275",
+    "topic": "motivation",
+    "quote": "Your effort still matters on quiet days.",
+    "short_title": "Quiet days",
+    "keywords": [
+      "motivation",
+      "effort",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0276",
+    "topic": "minimalism",
+    "quote": "A simpler room can create a stronger mind.",
+    "short_title": "Simpler room",
+    "keywords": [
+      "minimalism",
+      "space",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0277",
+    "topic": "mindset",
+    "quote": "You become braver by acting before certainty.",
+    "short_title": "Act before certainty",
+    "keywords": [
+      "mindset",
+      "courage",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0278",
+    "topic": "self_love",
+    "quote": "Trust can grow between you and yourself.",
+    "short_title": "Trust yourself",
+    "keywords": [
+      "selflove",
+      "trust",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0279",
+    "topic": "discipline",
+    "quote": "Keep proving to yourself that you follow through.",
+    "short_title": "Follow through",
+    "keywords": [
+      "discipline",
+      "confidence",
+      "habits"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0280",
+    "topic": "productivity",
+    "quote": "Clear criteria make faster decisions.",
+    "short_title": "Clear criteria",
+    "keywords": [
+      "productivity",
+      "clarity",
+      "decisions"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0281",
+    "topic": "stoic",
+    "quote": "Your peace deserves protection too.",
+    "short_title": "Protect peace",
+    "keywords": [
+      "stoic",
+      "peace",
+      "boundaries"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0282",
+    "topic": "habits",
+    "quote": "Build fewer habits, but build them deeply.",
+    "short_title": "Build deeply",
+    "keywords": [
+      "habits",
+      "discipline",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0283",
+    "topic": "motivation",
+    "quote": "Today can still count, even if it starts late.",
+    "short_title": "Starts late",
+    "keywords": [
+      "motivation",
+      "resilience",
+      "progress"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0284",
+    "topic": "minimalism",
+    "quote": "Clean edges create calm thinking.",
+    "short_title": "Clean edges",
+    "keywords": [
+      "minimalism",
+      "calm",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0285",
+    "topic": "mindset",
+    "quote": "A focused identity is formed by repeated choices.",
+    "short_title": "Focused identity",
+    "keywords": [
+      "mindset",
+      "identity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0286",
+    "topic": "self_love",
+    "quote": "Give yourself support, not just standards.",
+    "short_title": "Support yourself",
+    "keywords": [
+      "selflove",
+      "balance",
+      "selfrespect"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0287",
+    "topic": "discipline",
+    "quote": "Private effort makes public progress possible.",
+    "short_title": "Private effort",
+    "keywords": [
+      "discipline",
+      "effort",
+      "progress"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0288",
+    "topic": "productivity",
+    "quote": "Working clearly beats working longer.",
+    "short_title": "Work clearly",
+    "keywords": [
+      "productivity",
+      "focus",
+      "time"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0289",
+    "topic": "stoic",
+    "quote": "Inner order changes outer action.",
+    "short_title": "Inner order",
+    "keywords": [
+      "stoic",
+      "clarity",
+      "action"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0290",
+    "topic": "habits",
+    "quote": "Your default choices deserve design.",
+    "short_title": "Design defaults",
+    "keywords": [
+      "habits",
+      "systems",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0291",
+    "topic": "motivation",
+    "quote": "You are growing roots before results.",
+    "short_title": "Grow roots",
+    "keywords": [
+      "motivation",
+      "growth",
+      "patience"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0292",
+    "topic": "minimalism",
+    "quote": "Protect your mind by lowering the clutter.",
+    "short_title": "Lower clutter",
+    "keywords": [
+      "minimalism",
+      "mindset",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0293",
+    "topic": "mindset",
+    "quote": "The next useful step beats the perfect theory.",
+    "short_title": "Useful step",
+    "keywords": [
+      "mindset",
+      "action",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0294",
+    "topic": "self_love",
+    "quote": "Rest can be responsible, not indulgent.",
+    "short_title": "Responsible rest",
+    "keywords": [
+      "selflove",
+      "rest",
+      "balance"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0295",
+    "topic": "discipline",
+    "quote": "Build proof, not excuses.",
+    "short_title": "Build proof",
+    "keywords": [
+      "discipline",
+      "action",
+      "confidence"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0296",
+    "topic": "productivity",
+    "quote": "Progress improves when attention stays in one place.",
+    "short_title": "One place",
+    "keywords": [
+      "productivity",
+      "focus",
+      "progress"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0297",
+    "topic": "stoic",
+    "quote": "A trained response is stronger than a fast reaction.",
+    "short_title": "Trained response",
+    "keywords": [
+      "stoic",
+      "control",
+      "strength"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0298",
+    "topic": "habits",
+    "quote": "Repeated basics outperform occasional intensity.",
+    "short_title": "Repeated basics",
+    "keywords": [
+      "habits",
+      "consistency",
+      "discipline"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0299",
+    "topic": "motivation",
+    "quote": "A stronger self is built one decision at a time.",
+    "short_title": "One decision",
+    "keywords": [
+      "motivation",
+      "growth",
+      "choice"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0300",
+    "topic": "minimalism",
+    "quote": "What is clear gets protected.",
+    "short_title": "Protect clarity",
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "focus"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0301",
+    "topic": "mindset",
+    "quote": "Your standards quietly introduce your future.",
+    "short_title": "Introduce future",
+    "keywords": [
+      "mindset",
+      "standards",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0302",
+    "topic": "self_love",
+    "quote": "Keep speaking to yourself like someone worth helping.",
+    "short_title": "Worth helping",
+    "keywords": [
+      "selflove",
+      "worth",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0303",
+    "topic": "discipline",
+    "quote": "Consistency is a vote for the person you want to become.",
+    "short_title": "Vote with consistency",
+    "keywords": [
+      "discipline",
+      "identity",
+      "consistency"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0304",
+    "topic": "productivity",
+    "quote": "You need fewer tabs, not more pressure.",
+    "short_title": "Fewer tabs",
+    "keywords": [
+      "productivity",
+      "focus",
+      "clarity"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0305",
+    "topic": "motivation",
+    "quote": "Small courage is still courage.",
+    "short_title": "Small courage",
+    "keywords": [
+      "motivation",
+      "courage",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0306",
+    "topic": "self_love",
+    "quote": "Make your inner voice a safer place to return to.",
+    "short_title": "Safer inner voice",
+    "keywords": [
+      "selflove",
+      "mindset",
+      "peace"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0307",
+    "topic": "minimalism",
+    "quote": "Clarity costs less than chaos.",
+    "short_title": "Cost of chaos",
+    "keywords": [
+      "minimalism",
+      "clarity",
+      "control"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0308",
+    "topic": "mindset",
+    "quote": "A clean decision can change a cluttered week.",
+    "short_title": "Clean decision",
+    "keywords": [
+      "mindset",
+      "clarity",
+      "change"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0309",
+    "topic": "habits",
+    "quote": "Discipline feels lighter when the path is visible.",
+    "short_title": "Visible path",
+    "keywords": [
+      "habits",
+      "discipline",
+      "systems"
+    ],
+    "used": false
+  },
+  {
+    "id": "q0310",
+    "topic": "stoic",
+    "quote": "Calm direction beats emotional speed.",
+    "short_title": "Calm direction",
+    "keywords": [
+      "stoic",
+      "discipline",
+      "clarity"
+    ],
+    "used": false
   }
 ]
