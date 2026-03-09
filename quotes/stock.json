@@ -1329,7 +1329,7 @@
       "growth",
       "resilience"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0112",
@@ -1341,7 +1341,7 @@
       "habits",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0113",
@@ -1353,7 +1353,7 @@
       "clarity",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0114",
