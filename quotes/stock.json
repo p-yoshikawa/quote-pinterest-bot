@@ -1401,7 +1401,7 @@
       "systems",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0118",
@@ -1413,7 +1413,7 @@
       "focus",
       "control"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0119",
@@ -1425,7 +1425,7 @@
       "choice",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0120",
