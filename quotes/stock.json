@@ -1437,7 +1437,7 @@
       "focus",
       "time"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0121",
@@ -1449,7 +1449,7 @@
       "balance",
       "confidence"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0122",
@@ -1461,7 +1461,7 @@
       "standards",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0123",
