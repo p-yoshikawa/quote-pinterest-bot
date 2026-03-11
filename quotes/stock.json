@@ -1473,7 +1473,7 @@
       "clarity",
       "mindset"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0124",
@@ -1485,7 +1485,7 @@
       "priorities",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0125",
@@ -1497,7 +1497,7 @@
       "action",
       "progress"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0126",
