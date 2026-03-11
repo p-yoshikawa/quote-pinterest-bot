@@ -1545,7 +1545,7 @@
       "identity",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0130",
@@ -1557,7 +1557,7 @@
       "peace",
       "acceptance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0131",
@@ -1569,7 +1569,7 @@
       "start",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0132",
