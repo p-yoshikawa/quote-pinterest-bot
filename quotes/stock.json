@@ -1653,7 +1653,7 @@
       "clarity",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0139",
@@ -1665,7 +1665,7 @@
       "balance",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0140",
@@ -1677,7 +1677,7 @@
       "routine",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0141",
