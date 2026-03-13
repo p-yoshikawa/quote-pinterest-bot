@@ -1725,7 +1725,7 @@
       "habits",
       "future"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0145",
@@ -1737,7 +1737,7 @@
       "rest",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0146",
@@ -1749,7 +1749,7 @@
       "focus",
       "purpose"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0147",
