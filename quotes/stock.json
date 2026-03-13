@@ -1761,7 +1761,7 @@
       "confidence",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0148",
@@ -1773,7 +1773,7 @@
       "resilience",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0149",
@@ -1785,7 +1785,7 @@
       "action",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0150",
