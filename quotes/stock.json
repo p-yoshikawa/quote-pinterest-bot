@@ -1869,7 +1869,7 @@
       "identity",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0157",
@@ -1881,7 +1881,7 @@
       "action",
       "overwhelm"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0158",
@@ -1893,7 +1893,7 @@
       "routine",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0159",
