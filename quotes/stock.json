@@ -1833,7 +1833,7 @@
       "boundaries",
       "peace"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0154",
@@ -1845,7 +1845,7 @@
       "action",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0155",
@@ -1857,7 +1857,7 @@
       "clarity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0156",
