@@ -1797,7 +1797,7 @@
       "character",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0151",
@@ -1809,7 +1809,7 @@
       "resilience",
       "control"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0152",
@@ -1821,7 +1821,7 @@
       "momentum",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0153",
