@@ -1977,7 +1977,7 @@
       "identity",
       "belief"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0166",
@@ -1989,7 +1989,7 @@
       "systems",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0167",
@@ -2001,7 +2001,7 @@
       "growth",
       "effort"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0168",
