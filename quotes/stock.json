@@ -1905,7 +1905,7 @@
       "progress",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0160",
@@ -1917,7 +1917,7 @@
       "discipline",
       "freedom"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0161",
@@ -1929,7 +1929,7 @@
       "progress",
       "worth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0162",
