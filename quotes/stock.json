@@ -2085,7 +2085,7 @@
       "progress",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0175",
@@ -2097,7 +2097,7 @@
       "future",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0176",
@@ -2109,7 +2109,7 @@
       "selfcare",
       "priorities"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0177",
