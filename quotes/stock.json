@@ -2049,7 +2049,7 @@
       "control",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0172",
@@ -2061,7 +2061,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0173",
@@ -2073,7 +2073,7 @@
       "direction",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0174",
