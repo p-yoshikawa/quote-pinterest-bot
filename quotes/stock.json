@@ -2121,7 +2121,7 @@
       "integrity",
       "habits"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0178",
@@ -2133,7 +2133,7 @@
       "systems",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0179",
@@ -2145,7 +2145,7 @@
       "intention",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0180",
