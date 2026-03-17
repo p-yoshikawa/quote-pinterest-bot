@@ -2157,7 +2157,7 @@
       "confidence",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0181",
@@ -2169,7 +2169,7 @@
       "effort",
       "progress"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0182",
@@ -2181,7 +2181,7 @@
       "mindset",
       "resilience"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0183",
