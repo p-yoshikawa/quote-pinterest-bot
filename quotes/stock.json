@@ -2229,7 +2229,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0187",
@@ -2241,7 +2241,7 @@
       "values",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0188",
@@ -2253,7 +2253,7 @@
       "focus",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0189",
