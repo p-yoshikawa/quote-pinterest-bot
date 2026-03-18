@@ -2265,7 +2265,7 @@
       "discipline",
       "integrity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0190",
@@ -2277,7 +2277,7 @@
       "rest",
       "ambition"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0191",
@@ -2289,7 +2289,7 @@
       "patience",
       "strength"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0192",
