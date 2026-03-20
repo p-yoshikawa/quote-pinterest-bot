@@ -2517,7 +2517,7 @@
       "systems",
       "results"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0211",
@@ -2529,7 +2529,7 @@
       "action",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0212",
@@ -2541,7 +2541,7 @@
       "deepwork",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0213",
