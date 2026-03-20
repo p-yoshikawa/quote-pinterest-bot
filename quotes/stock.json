@@ -2445,7 +2445,7 @@
       "growth",
       "awareness"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0205",
@@ -2457,7 +2457,7 @@
       "resilience",
       "effort"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0206",
@@ -2469,7 +2469,7 @@
       "future",
       "selfcare"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0207",
