@@ -2481,7 +2481,7 @@
       "preparation",
       "integrity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0208",
@@ -2493,7 +2493,7 @@
       "focus",
       "planning"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0209",
@@ -2505,7 +2505,7 @@
       "action",
       "strength"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0210",
