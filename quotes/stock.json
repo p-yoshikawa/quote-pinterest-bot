@@ -2553,7 +2553,7 @@
       "confidence",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0214",
@@ -2565,7 +2565,7 @@
       "boundaries",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0215",
@@ -2577,7 +2577,7 @@
       "integrity",
       "habits"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0216",
