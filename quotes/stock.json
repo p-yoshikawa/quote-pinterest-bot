@@ -2625,7 +2625,7 @@
       "effort",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0220",
@@ -2637,7 +2637,7 @@
       "attention",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0221",
@@ -2649,7 +2649,7 @@
       "standards",
       "identity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0222",
