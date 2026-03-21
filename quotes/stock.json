@@ -2589,7 +2589,7 @@
       "priorities",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0217",
@@ -2601,7 +2601,7 @@
       "mindset",
       "judgment"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0218",
@@ -2613,7 +2613,7 @@
       "routine",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0219",
