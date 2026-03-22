@@ -2733,7 +2733,7 @@
       "direction",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0229",
@@ -2745,7 +2745,7 @@
       "boundaries",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0230",
@@ -2757,7 +2757,7 @@
       "balance",
       "selfcare"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0231",
