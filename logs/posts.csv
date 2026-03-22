@@ -220,3 +220,6 @@ timestamp,quote_id,topic,image_path,status,detail
 2026-03-21T21:59:16.119879+09:00,q0219,motivation,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260321_215916_q0219_n01.png,ok,generated_gradient
 2026-03-21T21:59:16.176506+09:00,q0220,minimalism,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260321_215916_q0220_n02.png,ok,generated_gradient
 2026-03-21T21:59:16.231978+09:00,q0221,mindset,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260321_215916_q0221_n03.png,ok,generated_gradient
+2026-03-22T11:38:21.507289+09:00,q0222,self_love,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260322_113821_q0222_n01.png,ok,generated_gradient
+2026-03-22T11:38:21.564097+09:00,q0223,discipline,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260322_113821_q0223_n02.png,ok,generated_gradient
+2026-03-22T11:38:21.617523+09:00,q0224,productivity,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260322_113821_q0224_n03.png,ok,generated_gradient

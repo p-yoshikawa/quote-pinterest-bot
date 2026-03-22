@@ -2661,7 +2661,7 @@
       "peace",
       "growth"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0223",
@@ -2673,7 +2673,7 @@
       "consistency",
       "standards"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0224",
@@ -2685,7 +2685,7 @@
       "momentum",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0225",
