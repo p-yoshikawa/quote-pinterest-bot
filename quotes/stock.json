@@ -2805,7 +2805,7 @@
       "values",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0235",
@@ -2817,7 +2817,7 @@
       "progress",
       "belief"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0236",
@@ -2829,7 +2829,7 @@
       "clarity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0237",
