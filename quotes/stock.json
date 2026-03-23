@@ -2841,7 +2841,7 @@
       "courage",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0238",
@@ -2853,7 +2853,7 @@
       "rest",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0239",
@@ -2865,7 +2865,7 @@
       "power",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0240",
