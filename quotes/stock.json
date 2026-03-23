@@ -2769,7 +2769,7 @@
       "preparation",
       "strength"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0232",
@@ -2781,7 +2781,7 @@
       "time",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0233",
@@ -2793,7 +2793,7 @@
       "control",
       "confidence"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0234",
