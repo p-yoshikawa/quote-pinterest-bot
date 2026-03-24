@@ -2949,7 +2949,7 @@
       "peace",
       "ambition"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0247",
@@ -2961,7 +2961,7 @@
       "integrity",
       "character"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0248",
@@ -2973,7 +2973,7 @@
       "systems",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0249",
