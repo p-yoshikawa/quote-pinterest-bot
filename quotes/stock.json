@@ -2877,7 +2877,7 @@
       "focus",
       "systems"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0241",
@@ -2889,7 +2889,7 @@
       "resilience",
       "strength"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0242",
@@ -2901,7 +2901,7 @@
       "routine",
       "systems"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0243",
