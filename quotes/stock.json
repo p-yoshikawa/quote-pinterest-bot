@@ -3057,7 +3057,7 @@
       "consistency",
       "strength"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0256",
@@ -3069,7 +3069,7 @@
       "focus",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0257",
@@ -3081,7 +3081,7 @@
       "control",
       "character"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0258",
