@@ -3021,7 +3021,7 @@
       "clarity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0253",
@@ -3033,7 +3033,7 @@
       "focus",
       "life"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0254",
@@ -3045,7 +3045,7 @@
       "future",
       "boundaries"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0255",
