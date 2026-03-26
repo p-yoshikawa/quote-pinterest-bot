@@ -3165,7 +3165,7 @@
       "clarity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0265",
@@ -3177,7 +3177,7 @@
       "effort",
       "resilience"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0266",
@@ -3189,7 +3189,7 @@
       "routine",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0267",
