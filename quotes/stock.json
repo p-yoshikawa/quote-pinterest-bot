@@ -3129,7 +3129,7 @@
       "identity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0262",
@@ -3141,7 +3141,7 @@
       "growth",
       "confidence"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0263",
@@ -3153,7 +3153,7 @@
       "environment",
       "systems"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0264",
