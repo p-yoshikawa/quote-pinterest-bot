@@ -3345,7 +3345,7 @@
       "confidence",
       "habits"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0280",
@@ -3357,7 +3357,7 @@
       "clarity",
       "decisions"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0281",
@@ -3369,7 +3369,7 @@
       "peace",
       "boundaries"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0282",
