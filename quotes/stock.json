@@ -3381,7 +3381,7 @@
       "discipline",
       "consistency"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0283",
@@ -3393,7 +3393,7 @@
       "resilience",
       "progress"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0284",
@@ -3405,7 +3405,7 @@
       "calm",
       "clarity"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0285",
