@@ -289,3 +289,6 @@ timestamp,quote_id,topic,image_path,status,detail
 2026-03-29T14:39:44.811150+09:00,q0288,productivity,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260329_143944_q0288_n01.png,ok,generated_gradient
 2026-03-29T14:39:44.856620+09:00,q0289,stoic,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260329_143944_q0289_n02.png,ok,generated_gradient
 2026-03-29T14:39:44.903584+09:00,q0290,habits,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260329_143944_q0290_n03.png,ok,generated_gradient
+2026-03-29T22:05:40.171026+09:00,q0291,motivation,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260329_220540_q0291_n01.png,ok,generated_gradient
+2026-03-29T22:05:40.225102+09:00,q0292,minimalism,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260329_220540_q0292_n02.png,ok,generated_gradient
+2026-03-29T22:05:40.278867+09:00,q0293,mindset,/home/runner/work/quote-pinterest-bot/quote-pinterest-bot/output/images/20260329_220540_q0293_n03.png,ok,generated_gradient
