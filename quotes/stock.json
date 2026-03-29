@@ -3417,7 +3417,7 @@
       "identity",
       "focus"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0286",
@@ -3429,7 +3429,7 @@
       "balance",
       "selfrespect"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0287",
@@ -3441,7 +3441,7 @@
       "effort",
       "progress"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0288",
