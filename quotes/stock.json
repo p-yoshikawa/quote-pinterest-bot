@@ -3453,7 +3453,7 @@
       "focus",
       "time"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0289",
@@ -3465,7 +3465,7 @@
       "clarity",
       "action"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0290",
@@ -3477,7 +3477,7 @@
       "systems",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0291",
