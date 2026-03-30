@@ -3561,7 +3561,7 @@
       "control",
       "strength"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0298",
@@ -3573,7 +3573,7 @@
       "consistency",
       "discipline"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0299",
@@ -3585,7 +3585,7 @@
       "growth",
       "choice"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0300",
