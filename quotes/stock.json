@@ -3525,7 +3525,7 @@
       "rest",
       "balance"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0295",
@@ -3537,7 +3537,7 @@
       "action",
       "confidence"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0296",
@@ -3549,7 +3549,7 @@
       "focus",
       "progress"
     ],
-    "used": false
+    "used": true
   },
   {
     "id": "q0297",
